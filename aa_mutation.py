@@ -30,7 +30,6 @@ protein_alphabet = [
     "V",
     "W",
     "Y",
-    "-",
 ]
 
 ga98 = 'TTYKLILNLKQAKEEAIKELVDAGTAEKYFKLIANAKTVEGVWTLKDEIKTFTVTE'
