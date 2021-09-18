@@ -59,8 +59,7 @@ def insertion(sequence):
     return "".join(sequence)
 
 
-def generate_mutations(seq, mutation_func, num_seqs, base_id, base_name):
-    mutation_records = []
+def generate_mutations(seq, mutation_func, num_seqs, base_id, base_name, out_dir):
     for i in tqdm(range(num_seqs)):
         a = Seq(mutation_func(seq))
         a_record = SeqRecord(
@@ -69,8 +68,8 @@ def generate_mutations(seq, mutation_func, num_seqs, base_id, base_name):
             name=base_name,
             description=base_name
         )
-        mutation_records.append(a_record)
-    return mutation_records
+        with open(out_dir + "/{}_{}.fasta".format(base_id, i), "w") as output_handle:
+            SeqIO.write(a_record, output_handle, "fasta")
 
 
 if __name__ == '__main__':
@@ -94,36 +93,36 @@ if __name__ == '__main__':
                 sys.exit()
             else:
                 continue
-    # generate mutations
+    # generate concatenated_mutations
     print("Generating point mutation sequences...")
-    point_mutation_sequences_ga98 = generate_mutations(ga98, point_mutate, args.num_seqs, "GA98_PM",
-                                                       "GA98 Point Mutation Sequence")
-    with open(args.out_dir+"/ga98_point_mutations.fasta", "w") as output_handle:
-        SeqIO.write(point_mutation_sequences_ga98, output_handle, "fasta")
+    generate_mutations(ga98, point_mutate, args.num_seqs, "GA98_PM",
+                       "GA98 Point Mutation Sequence", args.out_dir)
+    # with open(args.out_dir+"/ga98_point_mutations.fasta", "w") as output_handle:
+    #     SeqIO.write(point_mutation_sequences_ga98, output_handle, "fasta")
 
-    point_mutation_sequences_gb98 = generate_mutations(gb98, point_mutate, args.num_seqs, "GB98_PM",
-                                                       "GB98 Point Mutation Sequence")
-    with open(args.out_dir+"/gb98_point_mutations.fasta", "w") as output_handle:
-        SeqIO.write(point_mutation_sequences_gb98, output_handle, "fasta")
+    generate_mutations(gb98, point_mutate, args.num_seqs, "GB98_PM",
+                       "GB98 Point Mutation Sequence", args.out_dir)
+    # with open(args.out_dir+"/gb98_point_mutations.fasta", "w") as output_handle:
+    #     SeqIO.write(point_mutation_sequences_gb98, output_handle, "fasta")
 
     print("Generating insertion mutation sequences...")
-    insertion_sequences_ga98 = generate_mutations(ga98, insertion, args.num_seqs, "GA98_IM",
-                                                  "GA98 Insertion Mutation Sequence")
-    with open(args.out_dir+"/ga98_insertion_mutations.fasta", "w") as output_handle:
-        SeqIO.write(insertion_sequences_ga98, output_handle, "fasta")
+    generate_mutations(ga98, insertion, args.num_seqs, "GA98_IM",
+                       "GA98 Insertion Mutation Sequence", args.out_dir)
+    # with open(args.out_dir+"/ga98_insertion_mutations.fasta", "w") as output_handle:
+    #     SeqIO.write(insertion_sequences_ga98, output_handle, "fasta")
 
-    insertion_sequences_gb98 = generate_mutations(gb98, insertion, args.num_seqs, "GB98_IM",
-                                                  "GB98 Insertion Mutation Sequence")
-    with open(args.out_dir+"/gb98_insertion_mutations.fasta", "w") as output_handle:
-        SeqIO.write(insertion_sequences_gb98, output_handle, "fasta")
+    generate_mutations(gb98, insertion, args.num_seqs, "GB98_IM",
+                       "GB98 Insertion Mutation Sequence", args.out_dir)
+    # with open(args.out_dir+"/gb98_insertion_mutations.fasta", "w") as output_handle:
+    #     SeqIO.write(insertion_sequences_gb98, output_handle, "fasta")
 
     print("Generating deletion mutation sequences...")
-    deletion_sequences_ga98 = generate_mutations(ga98, deletion, args.num_seqs, "GA98_DM",
-                                                 "GA98 Deletion Mutation Sequence")
-    with open(args.out_dir+"/ga98_deletion_mutations.fasta", "w") as output_handle:
-        SeqIO.write(deletion_sequences_ga98, output_handle, "fasta")
+    generate_mutations(ga98, deletion, args.num_seqs, "GA98_DM",
+                       "GA98 Deletion Mutation Sequence", args.out_dir)
+    # with open(args.out_dir+"/ga98_deletion_mutations.fasta", "w") as output_handle:
+    #     SeqIO.write(deletion_sequences_ga98, output_handle, "fasta")
 
-    deletion_sequences_gb98 = generate_mutations(gb98, deletion, args.num_seqs, "GB98_DM",
-                                                 "GB98 Deletion Mutation Sequence")
-    with open(args.out_dir+"/gb98_deletion_mutations.fasta", "w") as output_handle:
-        SeqIO.write(deletion_sequences_gb98, output_handle, "fasta")
+    generate_mutations(gb98, deletion, args.num_seqs, "GB98_DM",
+                       "GB98 Deletion Mutation Sequence", args.out_dir)
+    # with open(args.out_dir+"/gb98_deletion_mutations.fasta", "w") as output_handle:
+    #     SeqIO.write(deletion_sequences_gb98, output_handle, "fasta")
