@@ -5,6 +5,7 @@ import subprocess
 
 def alphafold(path):
     # run alphafold
+    print("Running for path {}...".format(path))
     subprocess.run(['bash', '/opt/alphafold/run.sh', '-d /lambda_stor/data/hsyoo/AlphaFoldData',
                     '-o ~/mutate_msa/folding_results/',
                     '-f {}'.format(path), '-t 2020-05-01', '-p casp14',
