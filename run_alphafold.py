@@ -9,7 +9,7 @@ def alphafold(path):
 
 
 if __name__ == "__main__":
-    files = os.listdir('mutatations')
+    files = os.listdir('mutations')
     for f in tqdm(files):
         alphafold('mutations/{}'.format(f))
 
