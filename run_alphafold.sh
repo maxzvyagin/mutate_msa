@@ -1,7 +1,7 @@
 #!/bin/bash
 for FILE in mutations/*
 do
-	echo FILE
+	echo $FILE
 #	command2 on $OUTPUT
 #	commandN
 done
