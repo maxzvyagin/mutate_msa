@@ -13,7 +13,7 @@ def alphafold(path):
 
 if __name__ == "__main__":
     ray.init()
-    files = os.listdir('mutations')
+    files = os.listdir('uncompleted_mutations')
     ray.get([alphafold._remote(args=[f]) for f in tqdm(files)])
     # for f in tqdm(files):
     #     alphafold('mutations/{}'.format(f))
