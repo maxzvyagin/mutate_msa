@@ -1,0 +1,614 @@
+# STOCKHOLM 1.0
+#=GF ID GA98_DM.12-i1
+#=GF DE GA98 Deletion Mutation Sequence
+#=GF AU jackhmmer (HMMER 3.3.2)
+
+#=GS GA98_DM.12                     DE GA98 Deletion Mutation Sequence
+#=GS UniRef90_A0A233VI99/433-475    DE [subseq from] GRAM_POS_ANCHORING domain-containing protein n=1 Tax=Finegoldia magna TaxID=1260 RepID=A0A233VI99_FINMA
+#=GS UniRef90_A0A233VI99/496-537    DE [subseq from] GRAM_POS_ANCHORING domain-containing protein n=1 Tax=Finegoldia magna TaxID=1260 RepID=A0A233VI99_FINMA
+#=GS UniRef90_A0A233VI99/629-670    DE [subseq from] GRAM_POS_ANCHORING domain-containing protein n=1 Tax=Finegoldia magna TaxID=1260 RepID=A0A233VI99_FINMA
+#=GS UniRef90_A0A233VI99/691-732    DE [subseq from] GRAM_POS_ANCHORING domain-containing protein n=1 Tax=Finegoldia magna TaxID=1260 RepID=A0A233VI99_FINMA
+#=GS UniRef90_A0A233VI99/826-868    DE [subseq from] GRAM_POS_ANCHORING domain-containing protein n=1 Tax=Finegoldia magna TaxID=1260 RepID=A0A233VI99_FINMA
+#=GS UniRef90_A0A233VI99/1001-1042  DE [subseq from] GRAM_POS_ANCHORING domain-containing protein n=1 Tax=Finegoldia magna TaxID=1260 RepID=A0A233VI99_FINMA
+#=GS UniRef90_A0A233VI99/1074-1119  DE [subseq from] GRAM_POS_ANCHORING domain-containing protein n=1 Tax=Finegoldia magna TaxID=1260 RepID=A0A233VI99_FINMA
+#=GS UniRef90_A0A233VI99/1159-1202  DE [subseq from] GRAM_POS_ANCHORING domain-containing protein n=1 Tax=Finegoldia magna TaxID=1260 RepID=A0A233VI99_FINMA
+#=GS UniRef90_A0A233VI99/1223-1264  DE [subseq from] GRAM_POS_ANCHORING domain-containing protein n=1 Tax=Finegoldia magna TaxID=1260 RepID=A0A233VI99_FINMA
+#=GS UniRef90_A0A233VI99/1285-1326  DE [subseq from] GRAM_POS_ANCHORING domain-containing protein n=1 Tax=Finegoldia magna TaxID=1260 RepID=A0A233VI99_FINMA
+#=GS UniRef90_P19909/104-144        DE [subseq from] Immunoglobulin G-binding protein G n=9 Tax=Streptococcus TaxID=1301 RepID=SPG2_STRSG
+#=GS UniRef90_P19909/173-219        DE [subseq from] Immunoglobulin G-binding protein G n=9 Tax=Streptococcus TaxID=1301 RepID=SPG2_STRSG
+#=GS UniRef90_P19909/248-295        DE [subseq from] Immunoglobulin G-binding protein G n=9 Tax=Streptococcus TaxID=1301 RepID=SPG2_STRSG
+#=GS UniRef90_P19909/303-357        DE [subseq from] Immunoglobulin G-binding protein G n=9 Tax=Streptococcus TaxID=1301 RepID=SPG2_STRSG
+#=GS UniRef90_P19909/372-427        DE [subseq from] Immunoglobulin G-binding protein G n=9 Tax=Streptococcus TaxID=1301 RepID=SPG2_STRSG
+#=GS UniRef90_P19909/442-497        DE [subseq from] Immunoglobulin G-binding protein G n=9 Tax=Streptococcus TaxID=1301 RepID=SPG2_STRSG
+#=GS UniRef90_A0A6I2QXK0/442-484    DE [subseq from] LPXTG cell wall anchor domain-containing protein n=1 Tax=Finegoldia sp. BIOML-A1 TaxID=2584649 RepID=A0A6I2QXK0_9FIRM
+#=GS UniRef90_A0A6I2QXK0/621-662    DE [subseq from] LPXTG cell wall anchor domain-containing protein n=1 Tax=Finegoldia sp. BIOML-A1 TaxID=2584649 RepID=A0A6I2QXK0_9FIRM
+#=GS UniRef90_A0A6I2QXK0/683-725    DE [subseq from] LPXTG cell wall anchor domain-containing protein n=1 Tax=Finegoldia sp. BIOML-A1 TaxID=2584649 RepID=A0A6I2QXK0_9FIRM
+#=GS UniRef90_A0A6I2QXK0/750-791    DE [subseq from] LPXTG cell wall anchor domain-containing protein n=1 Tax=Finegoldia sp. BIOML-A1 TaxID=2584649 RepID=A0A6I2QXK0_9FIRM
+#=GS UniRef90_A0A6I2QXK0/812-853    DE [subseq from] LPXTG cell wall anchor domain-containing protein n=1 Tax=Finegoldia sp. BIOML-A1 TaxID=2584649 RepID=A0A6I2QXK0_9FIRM
+#=GS UniRef90_A0A6I2QXK0/879-920    DE [subseq from] LPXTG cell wall anchor domain-containing protein n=1 Tax=Finegoldia sp. BIOML-A1 TaxID=2584649 RepID=A0A6I2QXK0_9FIRM
+#=GS UniRef90_A0A5Q2SD60/121-165    DE [subseq from] YSIRK-type signal peptide-containing protein n=2 Tax=Streptococcus dysgalactiae TaxID=1334 RepID=A0A5Q2SD60_STRDY
+#=GS UniRef90_A0A5Q2SD60/183-238    DE [subseq from] YSIRK-type signal peptide-containing protein n=2 Tax=Streptococcus dysgalactiae TaxID=1334 RepID=A0A5Q2SD60_STRDY
+#=GS UniRef90_A0A5Q2SD60/253-308    DE [subseq from] YSIRK-type signal peptide-containing protein n=2 Tax=Streptococcus dysgalactiae TaxID=1334 RepID=A0A5Q2SD60_STRDY
+#=GS UniRef90_A0A5Q2SD60/323-378    DE [subseq from] YSIRK-type signal peptide-containing protein n=2 Tax=Streptococcus dysgalactiae TaxID=1334 RepID=A0A5Q2SD60_STRDY
+#=GS UniRef90_A0A5Q2SD60/393-448    DE [subseq from] YSIRK-type signal peptide-containing protein n=2 Tax=Streptococcus dysgalactiae TaxID=1334 RepID=A0A5Q2SD60_STRDY
+#=GS UniRef90_Q53975/223-278        DE [subseq from] Streptococcal surface protein n=2 Tax=Streptococcus dysgalactiae TaxID=1334 RepID=Q53975_STRDY
+#=GS UniRef90_Q53975/293-348        DE [subseq from] Streptococcal surface protein n=2 Tax=Streptococcus dysgalactiae TaxID=1334 RepID=Q53975_STRDY
+#=GS UniRef90_Q53975/363-418        DE [subseq from] Streptococcal surface protein n=2 Tax=Streptococcus dysgalactiae TaxID=1334 RepID=Q53975_STRDY
+#=GS UniRef90_Q53975/433-488        DE [subseq from] Streptococcal surface protein n=2 Tax=Streptococcus dysgalactiae TaxID=1334 RepID=Q53975_STRDY
+#=GS UniRef90_Q53975/503-558        DE [subseq from] Streptococcal surface protein n=2 Tax=Streptococcus dysgalactiae TaxID=1334 RepID=Q53975_STRDY
+#=GS UniRef90_K4Q980/104-144        DE [subseq from] Immunoglobulin G-binding protein G n=24 Tax=Streptococcus TaxID=1301 RepID=K4Q980_STREQ
+#=GS UniRef90_K4Q980/173-219        DE [subseq from] Immunoglobulin G-binding protein G n=24 Tax=Streptococcus TaxID=1301 RepID=K4Q980_STREQ
+#=GS UniRef90_K4Q980/248-295        DE [subseq from] Immunoglobulin G-binding protein G n=24 Tax=Streptococcus TaxID=1301 RepID=K4Q980_STREQ
+#=GS UniRef90_K4Q980/303-357        DE [subseq from] Immunoglobulin G-binding protein G n=24 Tax=Streptococcus TaxID=1301 RepID=K4Q980_STREQ
+#=GS UniRef90_K4Q980/372-427        DE [subseq from] Immunoglobulin G-binding protein G n=24 Tax=Streptococcus TaxID=1301 RepID=K4Q980_STREQ
+#=GS UniRef90_A0A4U9YG32/214-257    DE [subseq from] Immunoglobulin G-binding protein G n=2 Tax=Streptococcus dysgalactiae TaxID=1334 RepID=A0A4U9YG32_STREQ
+#=GS UniRef90_A0A4U9YG32/275-330    DE [subseq from] Immunoglobulin G-binding protein G n=2 Tax=Streptococcus dysgalactiae TaxID=1334 RepID=A0A4U9YG32_STREQ
+#=GS UniRef90_A0A4U9YG32/345-400    DE [subseq from] Immunoglobulin G-binding protein G n=2 Tax=Streptococcus dysgalactiae TaxID=1334 RepID=A0A4U9YG32_STREQ
+#=GS UniRef90_A0A4U9YG32/415-470    DE [subseq from] Immunoglobulin G-binding protein G n=2 Tax=Streptococcus dysgalactiae TaxID=1334 RepID=A0A4U9YG32_STREQ
+#=GS UniRef90_A0A448DI38/223-278    DE [subseq from] Immunoglobulin G-binding protein n=1 Tax=Streptococcus dysgalactiae subsp. equisimilis TaxID=119602 RepID=A0A448DI38_STREQ
+#=GS UniRef90_A0A448DI38/293-348    DE [subseq from] Immunoglobulin G-binding protein n=1 Tax=Streptococcus dysgalactiae subsp. equisimilis TaxID=119602 RepID=A0A448DI38_STREQ
+#=GS UniRef90_A0A448DI38/363-418    DE [subseq from] Immunoglobulin G-binding protein n=1 Tax=Streptococcus dysgalactiae subsp. equisimilis TaxID=119602 RepID=A0A448DI38_STREQ
+#=GS UniRef90_A0A448DI38/433-488    DE [subseq from] Immunoglobulin G-binding protein n=1 Tax=Streptococcus dysgalactiae subsp. equisimilis TaxID=119602 RepID=A0A448DI38_STREQ
+#=GS UniRef90_A0A380JVQ2/217-258    DE [subseq from] Immunoglobulin G-binding protein n=1 Tax=Streptococcus dysgalactiae subsp. dysgalactiae TaxID=99822 RepID=A0A380JVQ2_STRDY
+#=GS UniRef90_A0A380JVQ2/275-330    DE [subseq from] Immunoglobulin G-binding protein n=1 Tax=Streptococcus dysgalactiae subsp. dysgalactiae TaxID=99822 RepID=A0A380JVQ2_STRDY
+#=GS UniRef90_A0A380JVQ2/345-400    DE [subseq from] Immunoglobulin G-binding protein n=1 Tax=Streptococcus dysgalactiae subsp. dysgalactiae TaxID=99822 RepID=A0A380JVQ2_STRDY
+#=GS UniRef90_A0A380JVQ2/415-470    DE [subseq from] Immunoglobulin G-binding protein n=1 Tax=Streptococcus dysgalactiae subsp. dysgalactiae TaxID=99822 RepID=A0A380JVQ2_STRDY
+#=GS UniRef90_Q54181/2-45           DE [subseq from] Protein G' n=1 Tax=Streptococcus sp. group G TaxID=1320 RepID=Q54181_STRSG
+#=GS UniRef90_Q54181/60-115         DE [subseq from] Protein G' n=1 Tax=Streptococcus sp. group G TaxID=1320 RepID=Q54181_STRSG
+#=GS UniRef90_Q54181/130-185        DE [subseq from] Protein G' n=1 Tax=Streptococcus sp. group G TaxID=1320 RepID=Q54181_STRSG
+#=GS UniRef90_P06654/104-144        DE [subseq from] Immunoglobulin G-binding protein G n=16 Tax=Streptococcus TaxID=1301 RepID=SPG1_STRSG
+#=GS UniRef90_P06654/173-220        DE [subseq from] Immunoglobulin G-binding protein G n=16 Tax=Streptococcus TaxID=1301 RepID=SPG1_STRSG
+#=GS UniRef90_P06654/228-282        DE [subseq from] Immunoglobulin G-binding protein G n=16 Tax=Streptococcus TaxID=1301 RepID=SPG1_STRSG
+#=GS UniRef90_P06654/297-352        DE [subseq from] Immunoglobulin G-binding protein G n=16 Tax=Streptococcus TaxID=1301 RepID=SPG1_STRSG
+#=GS UniRef90_UPI0019515148/203-243 DE [subseq from] YSIRK-type signal peptide-containing protein n=1 Tax=Streptococcus dysgalactiae TaxID=1334 RepID=UPI0019515148
+#=GS UniRef90_UPI0019515148/272-319 DE [subseq from] YSIRK-type signal peptide-containing protein n=1 Tax=Streptococcus dysgalactiae TaxID=1334 RepID=UPI0019515148
+#=GS UniRef90_UPI0019515148/327-381 DE [subseq from] YSIRK-type signal peptide-containing protein n=1 Tax=Streptococcus dysgalactiae TaxID=1334 RepID=UPI0019515148
+#=GS UniRef90_UPI0019515148/396-451 DE [subseq from] YSIRK-type signal peptide-containing protein n=1 Tax=Streptococcus dysgalactiae TaxID=1334 RepID=UPI0019515148
+#=GS UniRef90_Q51918/554-596        DE [subseq from] Protein L n=1 Tax=Finegoldia magna TaxID=1260 RepID=Q51918_FINMA
+#=GS UniRef90_Q51918/733-774        DE [subseq from] Protein L n=1 Tax=Finegoldia magna TaxID=1260 RepID=Q51918_FINMA
+#=GS UniRef90_Q51918/795-836        DE [subseq from] Protein L n=1 Tax=Finegoldia magna TaxID=1260 RepID=Q51918_FINMA
+#=GS UniRef90_Q51918/857-898        DE [subseq from] Protein L n=1 Tax=Finegoldia magna TaxID=1260 RepID=Q51918_FINMA
+#=GS UniRef90_UPI001869144E/276-316 DE [subseq from] YSIRK-type signal peptide-containing protein n=1 Tax=Streptococcus dysgalactiae TaxID=1334 RepID=UPI001869144E
+#=GS UniRef90_UPI001869144E/345-392 DE [subseq from] YSIRK-type signal peptide-containing protein n=1 Tax=Streptococcus dysgalactiae TaxID=1334 RepID=UPI001869144E
+#=GS UniRef90_UPI001869144E/400-454 DE [subseq from] YSIRK-type signal peptide-containing protein n=1 Tax=Streptococcus dysgalactiae TaxID=1334 RepID=UPI001869144E
+#=GS UniRef90_UPI001869144E/469-524 DE [subseq from] YSIRK-type signal peptide-containing protein n=1 Tax=Streptococcus dysgalactiae TaxID=1334 RepID=UPI001869144E
+#=GS UniRef90_A0A233V257/179-222    DE [subseq from] GRAM_POS_ANCHORING domain-containing protein n=2 Tax=Finegoldia magna TaxID=1260 RepID=A0A233V257_FINMA
+#=GS UniRef90_A0A233V257/238-281    DE [subseq from] GRAM_POS_ANCHORING domain-containing protein n=2 Tax=Finegoldia magna TaxID=1260 RepID=A0A233V257_FINMA
+#=GS UniRef90_A0A233V257/297-340    DE [subseq from] GRAM_POS_ANCHORING domain-containing protein n=2 Tax=Finegoldia magna TaxID=1260 RepID=A0A233V257_FINMA
+#=GS UniRef90_UPI0014525AF5/104-144 DE [subseq from] YSIRK-type signal peptide-containing protein n=1 Tax=Streptococcus dysgalactiae TaxID=1334 RepID=UPI0014525AF5
+#=GS UniRef90_UPI0014525AF5/173-219 DE [subseq from] YSIRK-type signal peptide-containing protein n=1 Tax=Streptococcus dysgalactiae TaxID=1334 RepID=UPI0014525AF5
+#=GS UniRef90_UPI0014525AF5/248-295 DE [subseq from] YSIRK-type signal peptide-containing protein n=1 Tax=Streptococcus dysgalactiae TaxID=1334 RepID=UPI0014525AF5
+#=GS UniRef90_UPI0014525AF5/303-357 DE [subseq from] YSIRK-type signal peptide-containing protein n=1 Tax=Streptococcus dysgalactiae TaxID=1334 RepID=UPI0014525AF5
+#=GS UniRef90_UPI00017EE951/1-56    DE [subseq from] Ga88 n=7 Tax=synthetic construct TaxID=32630 RepID=UPI00017EE951
+#=GS UniRef90_UPI00017EE952/1-56    DE [subseq from] Gb88 n=1 Tax=synthetic construct TaxID=32630 RepID=UPI00017EE952
+#=GS UniRef90_UPI000B91CFC3/175-216 DE [subseq from] DUF5633 domain-containing protein n=1 Tax=Finegoldia magna TaxID=1260 RepID=UPI000B91CFC3
+#=GS UniRef90_UPI000B91CFC3/234-275 DE [subseq from] DUF5633 domain-containing protein n=1 Tax=Finegoldia magna TaxID=1260 RepID=UPI000B91CFC3
+#=GS UniRef90_UPI000B91CFC3/293-334 DE [subseq from] DUF5633 domain-containing protein n=1 Tax=Finegoldia magna TaxID=1260 RepID=UPI000B91CFC3
+#=GS UniRef90_UPI000B91CFC3/356-397 DE [subseq from] DUF5633 domain-containing protein n=1 Tax=Finegoldia magna TaxID=1260 RepID=UPI000B91CFC3
+#=GS UniRef90_UPI0019085562/33-75   DE [subseq from] DUF5633 domain-containing protein n=1 Tax=Anaerococcus obesiensis TaxID=1287640 RepID=UPI0019085562
+#=GS UniRef90_UPI0019085562/99-138  DE [subseq from] DUF5633 domain-containing protein n=1 Tax=Anaerococcus obesiensis TaxID=1287640 RepID=UPI0019085562
+#=GS UniRef90_UPI0019085562/162-201 DE [subseq from] DUF5633 domain-containing protein n=1 Tax=Anaerococcus obesiensis TaxID=1287640 RepID=UPI0019085562
+#=GS UniRef90_UPI0019085562/225-264 DE [subseq from] DUF5633 domain-containing protein n=1 Tax=Anaerococcus obesiensis TaxID=1287640 RepID=UPI0019085562
+#=GS UniRef90_A0A4V0E9Z3/273-327    DE [subseq from] Immunoglobulin G-binding protein G n=3 Tax=Streptococcus dysgalactiae TaxID=1334 RepID=A0A4V0E9Z3_STRDY
+#=GS UniRef90_A0A4V0E9Z3/342-397    DE [subseq from] Immunoglobulin G-binding protein G n=3 Tax=Streptococcus dysgalactiae TaxID=1334 RepID=A0A4V0E9Z3_STRDY
+#=GS UniRef90_A0A4V0E9Z3/412-467    DE [subseq from] Immunoglobulin G-binding protein G n=3 Tax=Streptococcus dysgalactiae TaxID=1334 RepID=A0A4V0E9Z3_STRDY
+#=GS UniRef90_G5JZF8/251-288        DE [subseq from] Immunoglobulin G-binding protein G n=1 Tax=Streptococcus ictaluri 707-05 TaxID=764299 RepID=G5JZF8_9STRE
+#=GS UniRef90_G5JZF8/295-337        DE [subseq from] Immunoglobulin G-binding protein G n=1 Tax=Streptococcus ictaluri 707-05 TaxID=764299 RepID=G5JZF8_9STRE
+#=GS UniRef90_G5JZF8/342-386        DE [subseq from] Immunoglobulin G-binding protein G n=1 Tax=Streptococcus ictaluri 707-05 TaxID=764299 RepID=G5JZF8_9STRE
+#=GS UniRef90_G5JZF8/391-436        DE [subseq from] Immunoglobulin G-binding protein G n=1 Tax=Streptococcus ictaluri 707-05 TaxID=764299 RepID=G5JZF8_9STRE
+#=GS UniRef90_G5JZF8/452-492        DE [subseq from] Immunoglobulin G-binding protein G n=1 Tax=Streptococcus ictaluri 707-05 TaxID=764299 RepID=G5JZF8_9STRE
+#=GS UniRef90_UPI000617DACF/14-68   DE [subseq from] LPXTG cell wall anchor domain-containing protein n=1 Tax=Streptococcus dysgalactiae TaxID=1334 RepID=UPI000617DACF
+#=GS UniRef90_UPI000617DACF/83-138  DE [subseq from] LPXTG cell wall anchor domain-containing protein n=1 Tax=Streptococcus dysgalactiae TaxID=1334 RepID=UPI000617DACF
+#=GS UniRef90_A0A317LSR7/174-219    DE [subseq from] LPXTG-motif cell wall-anchored protein (Fragment) n=1 Tax=Finegoldia magna TaxID=1260 RepID=A0A317LSR7_FINMA
+#=GS UniRef90_A0A317LSR7/305-350    DE [subseq from] LPXTG-motif cell wall-anchored protein (Fragment) n=1 Tax=Finegoldia magna TaxID=1260 RepID=A0A317LSR7_FINMA
+#=GS UniRef90_A0A317LSR7/368-409    DE [subseq from] LPXTG-motif cell wall-anchored protein (Fragment) n=1 Tax=Finegoldia magna TaxID=1260 RepID=A0A317LSR7_FINMA
+#=GS UniRef90_Q53291/330-384        DE [subseq from] Protein LG (Fragment) n=1 Tax=Finegoldia magna TaxID=1260 RepID=Q53291_FINMA
+#=GS UniRef90_Q53291/399-454        DE [subseq from] Protein LG (Fragment) n=1 Tax=Finegoldia magna TaxID=1260 RepID=Q53291_FINMA
+#=GS UniRef90_UPI000824553D/104-144 DE [subseq from] YSIRK-type signal peptide-containing protein n=1 Tax=Streptococcus dysgalactiae TaxID=1334 RepID=UPI000824553D
+#=GS UniRef90_UPI000824553D/173-219 DE [subseq from] YSIRK-type signal peptide-containing protein n=1 Tax=Streptococcus dysgalactiae TaxID=1334 RepID=UPI000824553D
+#=GS UniRef90_UPI000824553D/248-294 DE [subseq from] YSIRK-type signal peptide-containing protein n=1 Tax=Streptococcus dysgalactiae TaxID=1334 RepID=UPI000824553D
+#=GS UniRef90_UPI000824553D/323-369 DE [subseq from] YSIRK-type signal peptide-containing protein n=1 Tax=Streptococcus dysgalactiae TaxID=1334 RepID=UPI000824553D
+#=GS UniRef90_A0A2X3S9V4/171-212    DE [subseq from] IgG binding protein Zag n=31 Tax=Streptococcus equi TaxID=1336 RepID=A0A2X3S9V4_STRSZ
+#=GS UniRef90_A0A2X3S9V4/231-286    DE [subseq from] IgG binding protein Zag n=31 Tax=Streptococcus equi TaxID=1336 RepID=A0A2X3S9V4_STRSZ
+#=GS UniRef90_A0A2X3S9V4/303-358    DE [subseq from] IgG binding protein Zag n=31 Tax=Streptococcus equi TaxID=1336 RepID=A0A2X3S9V4_STRSZ
+#=GS UniRef90_UPI0011E81E4B/104-145 DE [subseq from] YSIRK-type signal peptide-containing protein n=1 Tax=Streptococcus dysgalactiae TaxID=1334 RepID=UPI0011E81E4B
+#=GS UniRef90_UPI0011E81E4B/153-207 DE [subseq from] YSIRK-type signal peptide-containing protein n=1 Tax=Streptococcus dysgalactiae TaxID=1334 RepID=UPI0011E81E4B
+#=GS UniRef90_UPI00042883B2/124-165 DE [subseq from] YSIRK signal domain/LPXTG anchor domain surface protein n=1 Tax=Streptococcus castoreus TaxID=254786 RepID=UPI00042883B2
+#=GS UniRef90_UPI00042883B2/171-215 DE [subseq from] YSIRK signal domain/LPXTG anchor domain surface protein n=1 Tax=Streptococcus castoreus TaxID=254786 RepID=UPI00042883B2
+#=GS UniRef90_UPI00042883B2/234-289 DE [subseq from] YSIRK signal domain/LPXTG anchor domain surface protein n=1 Tax=Streptococcus castoreus TaxID=254786 RepID=UPI00042883B2
+#=GS UniRef90_Q53974/196-240        DE [subseq from] Mag protein n=2 Tax=Streptococcus dysgalactiae TaxID=1334 RepID=Q53974_STRDY
+#=GS UniRef90_Q53974/257-312        DE [subseq from] Mag protein n=2 Tax=Streptococcus dysgalactiae TaxID=1334 RepID=Q53974_STRDY
+#=GS UniRef90_UPI000579AB14/68-97   DE [subseq from] Engineered Protein OR366 n=1 Tax=synthetic construct TaxID=32630 RepID=UPI000579AB14
+#=GS UniRef90_UPI000579AB14/110-139 DE [subseq from] Engineered Protein OR366 n=1 Tax=synthetic construct TaxID=32630 RepID=UPI000579AB14
+#=GS UniRef90_UPI000579AB14/152-181 DE [subseq from] Engineered Protein OR366 n=1 Tax=synthetic construct TaxID=32630 RepID=UPI000579AB14
+#=GS UniRef90_Q53833/264-305        DE [subseq from] PPmABPXM n=1 Tax=Staphylococcus carnosus TaxID=1281 RepID=Q53833_STACA
+#=GS UniRef90_Q53833/334-380        DE [subseq from] PPmABPXM n=1 Tax=Staphylococcus carnosus TaxID=1281 RepID=Q53833_STACA
+#=GS UniRef90_Q53833/409-456        DE [subseq from] PPmABPXM n=1 Tax=Staphylococcus carnosus TaxID=1281 RepID=Q53833_STACA
+#=GS UniRef90_UPI0018E15FF8/113-154 DE [subseq from] LPXTG cell wall anchor domain-containing protein n=3 Tax=Streptococcus constellatus TaxID=76860 RepID=UPI0018E15FF8
+#=GS UniRef90_UPI0018E15FF8/183-229 DE [subseq from] LPXTG cell wall anchor domain-containing protein n=3 Tax=Streptococcus constellatus TaxID=76860 RepID=UPI0018E15FF8
+#=GS UniRef90_UPI0018E15FF8/258-305 DE [subseq from] LPXTG cell wall anchor domain-containing protein n=3 Tax=Streptococcus constellatus TaxID=76860 RepID=UPI0018E15FF8
+#=GS UniRef90_UPI0011D12683/247-289 DE [subseq from] DUF5633 domain-containing protein n=1 Tax=Finegoldia magna TaxID=1260 RepID=UPI0011D12683
+#=GS UniRef90_UPI0011D12683/321-366 DE [subseq from] DUF5633 domain-containing protein n=1 Tax=Finegoldia magna TaxID=1260 RepID=UPI0011D12683
+#=GS UniRef90_A0A0P6S320/129-170    DE [subseq from] GRAM_POS_ANCHORING domain-containing protein n=1 Tax=Streptococcus phocae TaxID=119224 RepID=A0A0P6S320_9STRE
+#=GS UniRef90_A0A0P6S320/199-245    DE [subseq from] GRAM_POS_ANCHORING domain-containing protein n=1 Tax=Streptococcus phocae TaxID=119224 RepID=A0A0P6S320_9STRE
+#=GS UniRef90_A0A0P6S320/274-320    DE [subseq from] GRAM_POS_ANCHORING domain-containing protein n=1 Tax=Streptococcus phocae TaxID=119224 RepID=A0A0P6S320_9STRE
+#=GS UniRef90_UPI000691A021/51-92   DE [subseq from] LPXTG cell wall anchor domain-containing protein n=1 Tax=Streptococcus phocae TaxID=119224 RepID=UPI000691A021
+#=GS UniRef90_UPI000691A021/121-167 DE [subseq from] LPXTG cell wall anchor domain-containing protein n=1 Tax=Streptococcus phocae TaxID=119224 RepID=UPI000691A021
+#=GS UniRef90_UPI000691A021/196-242 DE [subseq from] LPXTG cell wall anchor domain-containing protein n=1 Tax=Streptococcus phocae TaxID=119224 RepID=UPI000691A021
+#=GS UniRef90_F9P4J6/59-105         DE [subseq from] Immunoglobulin G-binding protein G n=1 Tax=Streptococcus constellatus subsp. pharyngis SK1060 = CCUG 46377 TaxID=1035184 RepID=F9P4J6_STRCV
+#=GS UniRef90_F9P4J6/134-181        DE [subseq from] Immunoglobulin G-binding protein G n=1 Tax=Streptococcus constellatus subsp. pharyngis SK1060 = CCUG 46377 TaxID=1035184 RepID=F9P4J6_STRCV
+#=GS UniRef90_A0A6H2KLV2/140-184    DE [subseq from] YSIRK-type signal peptide-containing protein n=13 Tax=Streptococcus canis TaxID=1329 RepID=A0A6H2KLV2_STRCB
+#=GS UniRef90_A0A6H2KLV2/213-259    DE [subseq from] YSIRK-type signal peptide-containing protein n=13 Tax=Streptococcus canis TaxID=1329 RepID=A0A6H2KLV2_STRCB
+#=GS UniRef90_Q53337/2-57           DE [subseq from] Protein G IgG Fc binding domain n=7 Tax=unclassified Streptococcus TaxID=2608887 RepID=Q53337_9STRE
+#=GS UniRef90_UPI0000111872/2-56    DE [subseq from] PROTEIN G n=2 Tax=root TaxID=1 RepID=UPI0000111872
+#=GS UniRef90_UPI000194EC44/3-57    DE [subseq from] Protein LG n=25 Tax=Firmicutes TaxID=1239 RepID=UPI000194EC44
+#=GS UniRef90_UPI001896D942/114-154 DE [subseq from] YSIRK-type signal peptide-containing protein n=2 Tax=Streptococcus anginosus group TaxID=671232 RepID=UPI001896D942
+#=GS UniRef90_UPI001896D942/183-230 DE [subseq from] YSIRK-type signal peptide-containing protein n=2 Tax=Streptococcus anginosus group TaxID=671232 RepID=UPI001896D942
+#=GS UniRef90_UPI000FF874A8/2-56    DE [subseq from] Immunoglobulin G-binding protein G n=1 Tax=Streptococcus TaxID=1301 RepID=UPI000FF874A8
+#=GS UniRef90_UPI0000112952/14-69   DE [subseq from] PROTEIN G n=1 Tax=Streptococcus TaxID=1301 RepID=UPI0000112952
+#=GS UniRef90_UPI0013F5BE3F/167-208 DE [subseq from] YSIRK-type signal peptide-containing protein n=1 Tax=Streptococcus equi TaxID=1336 RepID=UPI0013F5BE3F
+#=GS UniRef90_UPI0013F5BE3F/227-282 DE [subseq from] YSIRK-type signal peptide-containing protein n=1 Tax=Streptococcus equi TaxID=1336 RepID=UPI0013F5BE3F
+#=GS UniRef90_A0A3P5Y6H5/144-186    DE [subseq from] Immunoglobulin G-binding protein G n=3 Tax=Streptococcus canis TaxID=1329 RepID=A0A3P5Y6H5_STRCB
+#=GS UniRef90_A0A3P5Y6H5/215-261    DE [subseq from] Immunoglobulin G-binding protein G n=3 Tax=Streptococcus canis TaxID=1329 RepID=A0A3P5Y6H5_STRCB
+#=GS UniRef90_UPI0010316302/115-156 DE [subseq from] DUF5633 domain-containing protein n=1 Tax=Anaerococcus vaginimassiliensis TaxID=2042308 RepID=UPI0010316302
+#=GS UniRef90_UPI0010316302/189-230 DE [subseq from] DUF5633 domain-containing protein n=1 Tax=Anaerococcus vaginimassiliensis TaxID=2042308 RepID=UPI0010316302
+#=GS UniRef90_UPI000194EC45/3-57    DE [subseq from] Protein LG n=2 Tax=Firmicutes TaxID=1239 RepID=UPI000194EC45
+#=GS UniRef90_UPI0013D91439/144-186 DE [subseq from] LPXTG cell wall anchor domain-containing protein n=3 Tax=Streptococcus canis TaxID=1329 RepID=UPI0013D91439
+#=GS UniRef90_UPI0013D91439/215-261 DE [subseq from] LPXTG cell wall anchor domain-containing protein n=3 Tax=Streptococcus canis TaxID=1329 RepID=UPI0013D91439
+#=GS UniRef90_UPI0011C34280/10-64   DE [subseq from] Immunoglobulin G-binding protein G n=4 Tax=unclassified Streptococcus TaxID=2608887 RepID=UPI0011C34280
+#=GS UniRef90_UPI0001BE642D/19-56   DE [subseq from] Immunoglobulin G-binding protein G n=2 Tax=Streptococcus TaxID=1301 RepID=UPI0001BE642D
+#=GS UniRef90_UPI0004620903/3-56    DE [subseq from] Immunoglobulin G-binding protein G/DNA polymerase iota fusion protein n=1 Tax=Streptococcus sp. group G TaxID=1320 RepID=UPI0004620903
+#=GS UniRef90_UPI0001C4E251/3-56    DE [subseq from] Immunoglobulin G-binding protein G, DNA polymerase iota n=1 Tax=Streptococcus sp. group G TaxID=1320 RepID=UPI0001C4E251
+#=GS UniRef90_A0A4U9ZRU6/170-210    DE [subseq from] Immunoglobulin G-binding protein n=3 Tax=Streptococcus dysgalactiae TaxID=1334 RepID=A0A4U9ZRU6_STREQ
+#=GS UniRef90_A0A4U9ZRU6/239-285    DE [subseq from] Immunoglobulin G-binding protein n=3 Tax=Streptococcus dysgalactiae TaxID=1334 RepID=A0A4U9ZRU6_STREQ
+#=GS UniRef90_E1KY24/369-410        DE [subseq from] Leucine Rich Repeat protein n=1 Tax=Finegoldia magna BVS033A4 TaxID=866773 RepID=E1KY24_FINMA
+#=GS UniRef90_E1KY24/432-474        DE [subseq from] Leucine Rich Repeat protein n=1 Tax=Finegoldia magna BVS033A4 TaxID=866773 RepID=E1KY24_FINMA
+#=GS UniRef90_UPI0000111875/2-57    DE [subseq from] GB1-C3B4 n=3 Tax=Streptococcus sp. G148 TaxID=1324 RepID=UPI0000111875
+#=GS UniRef90_A0A233W6U0/385-426    DE [subseq from] Albumin-binding protein n=1 Tax=Finegoldia magna TaxID=1260 RepID=A0A233W6U0_FINMA
+#=GS UniRef90_A0A233W6U0/448-490    DE [subseq from] Albumin-binding protein n=1 Tax=Finegoldia magna TaxID=1260 RepID=A0A233W6U0_FINMA
+#=GS UniRef90_UPI0000D834FD/9-62    DE [subseq from] Immunoglobulin G-binding protein G,Ubiquitin-like protein 7 n=1 Tax=Streptococcus sp. group G TaxID=1320 RepID=UPI0000D834FD
+#=GS UniRef90_UPI0000111373/1-56    DE [subseq from] PROTEIN G n=1 Tax=Streptococcus sp. TaxID=1306 RepID=UPI0000111373
+#=GS UniRef90_UPI0000358800/3-56    DE [subseq from] CHIMERA OF IGG BINDING PROTEIN G AND DNA FRAGMENTATION FACTOR 45 n=1 Tax=Streptococcus sp. TaxID=1306 RepID=UPI0000358800
+#=GS UniRef90_UPI001356A9CF/133-175 DE [subseq from] YSIRK-type signal peptide-containing protein n=1 Tax=Streptococcus halichoeri TaxID=254785 RepID=UPI001356A9CF
+#=GS UniRef90_UPI001356A9CF/211-252 DE [subseq from] YSIRK-type signal peptide-containing protein n=1 Tax=Streptococcus halichoeri TaxID=254785 RepID=UPI001356A9CF
+#=GS UniRef90_UPI00106719B7/3-56    DE [subseq from] Immunoglobulin G-binding protein G,Serine-protein kinase ATM n=1 Tax=Streptococcus sp. group G TaxID=1320 RepID=UPI00106719B7
+#=GS UniRef90_UPI0001E0708C/3-56    DE [subseq from] Immunoglobulin G-binding protein G,Serine/arginine-rich splicing factor 2 n=1 Tax=Streptococcus sp. group G TaxID=1320 RepID=UPI0001E0708C
+#=GS UniRef90_UPI0012494B4B/6-59    DE [subseq from] NEDD4-like E3 ubiquitin-protein ligase WWP2 n=1 Tax=Homo sapiens TaxID=9606 RepID=UPI0012494B4B
+#=GS UniRef90_UPI0000E9BBA8/3-56    DE [subseq from] Fusion protein consists of immunoglobulin G-Binding Protein G and Splicing factor, arginine/serine-rich 3 n=2 Tax=cellular organisms TaxID=131567 RepID=UPI0000E9BBA8
+#=GS UniRef90_UPI0000E8DA2F/8-52    DE [subseq from] PSD-1 n=1 Tax=Streptococcus sp. TaxID=1306 RepID=UPI0000E8DA2F
+#=GS UniRef90_UPI0018963DE2/3-56    DE [subseq from] Immunoglobulin G-binding protein G,Serine/arginine-rich splicing factor 1 n=1 Tax=Streptococcus sp. group G TaxID=1320 RepID=UPI0018963DE2
+#=GS UniRef90_K9EPZ2/42-83          DE [subseq from] Uncharacterized protein n=1 Tax=Alloiococcus otitis ATCC 51267 TaxID=883081 RepID=K9EPZ2_9LACT
+#=GS UniRef90_UPI00001D73C1/3-56    DE [subseq from] NACHT-, LRR- and PYD-containing protein 2 n=1 Tax=Homo sapiens TaxID=9606 RepID=UPI00001D73C1
+#=GS UniRef90_UPI0001BE62CB/22-75   DE [subseq from] Immunoglobulin G-binding protein G n=1 Tax=Streptococcus sp. group G TaxID=1320 RepID=UPI0001BE62CB
+#=GS UniRef90_E1KY41/457-499        DE [subseq from] LPXTG-motif cell wall anchor domain protein n=1 Tax=Finegoldia magna BVS033A4 TaxID=866773 RepID=E1KY41_FINMA
+#=GS UniRef90_E1KY41/517-558        DE [subseq from] LPXTG-motif cell wall anchor domain protein n=1 Tax=Finegoldia magna BVS033A4 TaxID=866773 RepID=E1KY41_FINMA
+#=GS UniRef90_UPI0005502770/43-84   DE [subseq from] hypothetical protein n=1 Tax=Atopobacter phocae TaxID=136492 RepID=UPI0005502770
+#=GS UniRef90_UPI0005502770/149-182 DE [subseq from] hypothetical protein n=1 Tax=Atopobacter phocae TaxID=136492 RepID=UPI0005502770
+#=GS UniRef90_A0A3P5YAC1/327-381    DE [subseq from] Immunoglobulin G-binding protein G n=3 Tax=Streptococcus canis TaxID=1329 RepID=A0A3P5YAC1_STRCB
+#=GS UniRef90_A0A2W5AJE8/140-182    DE [subseq from] GRAM_POS_ANCHORING domain-containing protein n=4 Tax=Streptococcus TaxID=1301 RepID=A0A2W5AJE8_STRPY
+#=GS UniRef90_A0A2W5AJE8/218-259    DE [subseq from] GRAM_POS_ANCHORING domain-containing protein n=4 Tax=Streptococcus TaxID=1301 RepID=A0A2W5AJE8_STRPY
+#=GS UniRef90_UPI0004DB2207/2-56    DE [subseq from] Streptococcal Protein GB1 Backbone Modified Variant: beta-ACPC21, beta-ACPC24, beta-3-Lys28, beta-3-Lys31, beta-ACPC35, beta-ACPC40 n=1 Tax=Streptococcus sp. TaxID=1306 RepID=UPI0004DB2207
+#=GS UniRef90_UPI0006775843/3-56    DE [subseq from] Immunoglobulin G-binding protein G n=1 Tax=Streptococcus sp. group G TaxID=1320 RepID=UPI0006775843
+#=GS UniRef90_UPI00001115E7/1-56    DE [subseq from] IMMUNOGLOBULIN G BINDING PROTEIN G n=1 Tax=Streptococcus sp. TaxID=1306 RepID=UPI00001115E7
+#=GS UniRef90_UPI00135AEBA0/138-179 DE [subseq from] YSIRK-type signal peptide-containing protein n=2 Tax=Streptococcus halichoeri TaxID=254785 RepID=UPI00135AEBA0
+#=GS UniRef90_UPI00135AEBA0/216-257 DE [subseq from] YSIRK-type signal peptide-containing protein n=2 Tax=Streptococcus halichoeri TaxID=254785 RepID=UPI00135AEBA0
+#=GS UniRef90_UPI0000112621/11-65   DE [subseq from] immunoglobulin-binding protein G n=1 Tax=Finegoldia magna (strain ATCC 29328 / DSM 20472 / WAL 2508) TaxID=334413 RepID=UPI0000112621
+#=GS UniRef90_UPI0006AB76D3/8-49    DE [subseq from] Albumin binding protein n=1 Tax=synthetic construct TaxID=32630 RepID=UPI0006AB76D3
+#=GS UniRef90_UPI0005AECF37/3-56    DE [subseq from] Virulence sensor protein BvgS n=1 Tax=Bordetella pertussis (strain Tohama I / ATCC BAA-589 / NCTC 13251) TaxID=257313 RepID=UPI0005AECF37
+#=GS UniRef90_UPI0000112614/24-65   DE [subseq from] immunoglobulin-binding protein G n=1 Tax=Finegoldia magna (strain ATCC 29328 / DSM 20472 / WAL 2508) TaxID=334413 RepID=UPI0000112614
+#=GS UniRef90_UPI000D14BF75/19-56   DE [subseq from] Metal binding GB1 n=1 Tax=Streptococcus sp. TaxID=1306 RepID=UPI000D14BF75
+#=GS UniRef90_I0SHA6/113-154        DE [subseq from] Gram-positive signal peptide protein, YSIRK family (Fragment) n=10 Tax=Streptococcus anginosus group TaxID=671232 RepID=I0SHA6_STRAP
+#=GS UniRef90_I0SHA6/183-228        DE [subseq from] Gram-positive signal peptide protein, YSIRK family (Fragment) n=10 Tax=Streptococcus anginosus group TaxID=671232 RepID=I0SHA6_STRAP
+#=GS UniRef90_UPI001262AC6A/5-60    DE [subseq from] Protein G n=1 Tax=Streptococcus sp. group G TaxID=1320 RepID=UPI001262AC6A
+#=GS UniRef90_UPI00001126B0/3-56    DE [subseq from] Immunoglobulin G binding protein G n=2 Tax=Streptococcus sp. group G TaxID=1320 RepID=UPI00001126B0
+#=GS UniRef90_UPI000556C262/399-440 DE [subseq from] YSIRK-type signal peptide-containing protein n=2 Tax=Bacteria TaxID=2 RepID=UPI000556C262
+#=GS UniRef90_UPI000556C262/443-485 DE [subseq from] YSIRK-type signal peptide-containing protein n=2 Tax=Bacteria TaxID=2 RepID=UPI000556C262
+#=GS UniRef90_UPI000FF87501/2-56    DE [subseq from] Immunoglobulin G-binding protein G n=2 Tax=Streptococcus TaxID=1301 RepID=UPI000FF87501
+#=GS UniRef90_UPI000B34A7DB/78-127  DE [subseq from] 1FD6-V1V2-WITO n=1 Tax=Human immunodeficiency virus 1 TaxID=11676 RepID=UPI000B34A7DB
+
+GA98_DM.12                             TTYK-L-I-NL-K-Q-A--KEEAIKELV-DAG-T-AEK-Y-F-K-LIANAKTVEGVWTLKDEIKTFTVTE
+UniRef90_A0A233VI99/433-475            ---------EL-A-A-A--KEKAIKELK-EAGIT-SDI-Y-F-D-AINKAKTVEGVESLKNEI-------
+#=GR UniRef90_A0A233VI99/433-475    PP .........68.8.9.*..*********.***77.899.*.*.*.****************98.......
+UniRef90_A0A233VI99/496-537            ----------L-K-N-A--KEDAIKELK-EAGIT-SDI-Y-F-D-AINKAKTVEGVESLKNEI-------
+#=GR UniRef90_A0A233VI99/496-537    PP ..........8.9.*.*..*********.***77.899.*.*.*.****************98.......
+UniRef90_A0A233VI99/629-670            ----------L-K-N-A--KEDAIKELK-EAGIT-SDI-Y-F-D-AINKAKTVEGVESLKNEI-------
+#=GR UniRef90_A0A233VI99/629-670    PP ..........8.9.*.*..*********.***77.899.*.*.*.****************98.......
+UniRef90_A0A233VI99/691-732            ----------L-K-N-A--KEDAIKELK-EAGIT-SDI-Y-F-D-AINKAKTVEGVESLKNEI-------
+#=GR UniRef90_A0A233VI99/691-732    PP ..........8.9.*.*..*********.***77.899.*.*.*.****************98.......
+UniRef90_A0A233VI99/826-868            ----------L-K-N-A--KEEAIKELK-EAGIT-SDL-Y-F-S-LINKAKTVEGVEALKNEIL------
+#=GR UniRef90_A0A233VI99/826-868    PP ..........8.9.*.*..*********.***77.899.*.*.*.****************984......
+UniRef90_A0A233VI99/1001-1042          ----------L-K-N-A--KEDAIKELK-EAGIT-SDI-Y-F-D-AINKAKTVEGVEALKNEI-------
+#=GR UniRef90_A0A233VI99/1001-1042  PP ..........8.9.*.*..*********.***77.899.*.*.*.****************98.......
+UniRef90_A0A233VI99/1074-1119          ---K-A-A-EL-Q-Y-A--KEAAIKELK-EAGIT-SEY-L-F-N-LINKAKTVEGVESLKNEI-------
+#=GR UniRef90_A0A233VI99/1074-1119  PP ...5.6.7.89.9.9.*..*********.***45.566.6.9.*.****************98.......
+UniRef90_A0A233VI99/1159-1202          -------Q-EL-Q-Y-A--KEAAIKELK-EAGIT-SDI-Y-F-D-AINKAKTVEGVESLKNEI-------
+#=GR UniRef90_A0A233VI99/1159-1202  PP .......5.78.9.9.*..*********.***77.899.*.*.*.****************98.......
+UniRef90_A0A233VI99/1223-1264          ----------L-K-N-A--KEDAIKELK-EAGIT-SDI-Y-F-D-AINKAKTVEGVESLKNEI-------
+#=GR UniRef90_A0A233VI99/1223-1264  PP ..........8.9.*.*..*********.***77.899.*.*.*.****************98.......
+UniRef90_A0A233VI99/1285-1326          ----------L-K-N-A--KEDAIKELK-EAGIT-SDI-N-F-D-AINKAKTVEGVEALKNEI-------
+#=GR UniRef90_A0A233VI99/1285-1326  PP ..........8.9.*.*..*********.***66.788.9.*.*.****************98.......
+UniRef90_P19909/104-144                ----------L-A-K-A--KADALKEFN-KYG-V-SDY-Y-K-N-LINNAKTVEGVKDLQAQV-------
+#=GR UniRef90_P19909/104-144        PP ..........6.7.8.9..*********.***.*.***.*.*.*.***********9887665.......
+UniRef90_P19909/173-219                -TVK-S-I-EL-A-E-A--KVLANRELD-KYG-V-SDY-H-K-N-LINNAKTVEGVKDLQAQV-------
+#=GR UniRef90_P19909/173-219        PP .779.9.9.**.*.*.*..*********.***.*.**9.9.9.*.***********9887665.......
+UniRef90_P19909/248-295                -TVK-S-I-EL-A-E-A--KVLANRELD-KYG-V-SDY-Y-K-N-LINNAKTVEGVKALIDEIL------
+#=GR UniRef90_P19909/248-295        PP .779.9.9.**.*.*.*..*********.***.*.***.*.*.*.****************985......
+UniRef90_P19909/303-357                -TYK-L-ILNG-K-T-L--KGETTTEAV-DAA-T-AEK-V-F-K-QYANDNGVDGEWTYDDATKTFTVTE
+#=GR UniRef90_P19909/303-357        PP .899.8.5499.*.*.*..*********.***.*.***.*.*.*.***********************98
+UniRef90_P19909/372-427                TTYK-LVI-NG-K-T-L--KGETTTEAV-DAA-T-AEK-V-F-K-QYANDNGVDGEWTYDDATKTFTVTE
+#=GR UniRef90_P19909/372-427        PP 89*9.846.99.*.*.*..*********.***.*.***.*.*.*.***********************98
+UniRef90_P19909/442-497                TTYK-LVI-NG-K-T-L--KGETTTKAV-DAE-T-AEK-A-F-K-QYANDNGVDGVWTYDDATKTFTVTE
+#=GR UniRef90_P19909/442-497        PP 89*9.846.99.*.*.*..*********.***.*.***.*.*.*.***********************98
+UniRef90_A0A6I2QXK0/442-484            ----------L-K-N-A--KEEAIKELK-EAGIT-SDL-Y-F-S-LINKAKTVEGVEALKNEIL------
+#=GR UniRef90_A0A6I2QXK0/442-484    PP ..........8.9.*.*..*********.***77.899.*.*.*.****************984......
+UniRef90_A0A6I2QXK0/621-662            ----------L-K-N-A--KEDAIKELK-EAG-ISSDI-Y-F-D-AINKAKTVEGVEALKNEI-------
+#=GR UniRef90_A0A6I2QXK0/621-662    PP ..........8.9.*.*..*********.***.62578.*.*.*.****************98.......
+UniRef90_A0A6I2QXK0/683-725            ----------L-K-N-A--KEAAIKELK-EAGIT-AEY-L-F-N-LINKAKTVEGVESLKNEIL------
+#=GR UniRef90_A0A6I2QXK0/683-725    PP ..........8.9.*.*..*********.***77.888.8.*.*.****************984......
+UniRef90_A0A6I2QXK0/750-791            ----------L-K-K-A--KEAAIKELK-EAGIT-SDI-F-F-D-AINKAKTVEGVEALKNEI-------
+#=GR UniRef90_A0A6I2QXK0/750-791    PP ..........8.9.*.*..*********.***67.889.9.*.*.****************98.......
+UniRef90_A0A6I2QXK0/812-853            ----------L-K-N-A--KEDAIKELK-EAGIT-SDI-Y-F-D-AINKAKTVEGVESLKNEI-------
+#=GR UniRef90_A0A6I2QXK0/812-853    PP ..........8.9.*.*..*********.***77.899.*.*.*.****************98.......
+UniRef90_A0A6I2QXK0/879-920            ----------L-K-K-A--KEAAIKELK-EAGIT-SDI-Y-F-D-AINKAKTVEGVEALKNEI-------
+#=GR UniRef90_A0A6I2QXK0/879-920    PP ..........8.9.*.*..*********.***77.899.*.*.*.****************98.......
+UniRef90_A0A5Q2SD60/121-165            ---K-A-S-VL-A-A-A--KADAINAIK-KYG-V-SDY-Y-V-K-LINNAKTVEGVNALKDEI-------
+#=GR UniRef90_A0A5Q2SD60/121-165    PP ...5.5.6.68.8.9.9..*********.***.*.***.*.*.*.*****************8.......
+UniRef90_A0A5Q2SD60/183-238            TTYK-L-V-VKGN-S-F--SGETTTKAV-DAA-T-AEK-E-F-K-QYATDNNVDGEWSYDNATKTFTVTE
+#=GR UniRef90_A0A5Q2SD60/183-238    PP 7899.8.7.5414.5.5..67889999*.***.*.***.*.*.*.***********************98
+UniRef90_A0A5Q2SD60/253-308            TTYK-L-V-VKGN-T-F--SGETTTNAV-DAA-T-AEK-E-F-K-QYATANNVDGEWTYDDATKTFTVTE
+#=GR UniRef90_A0A5Q2SD60/253-308    PP 7899.8.7.5414.4.5..6789999**.***.*.***.*.*.*.***********************98
+UniRef90_A0A5Q2SD60/323-378            TTYK-L-V-VKGN-T-F--SGETTTKAV-DAA-T-AEK-E-F-K-QYANENGVDGEWTYDDATKTFTVTE
+#=GR UniRef90_A0A5Q2SD60/323-378    PP 7899.8.7.5414.4.5..67889999*.***.*.***.*.*.*.***********************98
+UniRef90_A0A5Q2SD60/393-448            TTYK-LVI-NG-K-T-L--KGETTTKAV-DAE-T-AEK-A-F-K-QYANENGVDGVWTYDDATKTFTVTE
+#=GR UniRef90_A0A5Q2SD60/393-448    PP 89*9.846.99.*.*.*..*********.***.*.***.*.*.*.***********************98
+UniRef90_Q53975/223-278                TTYK-L-V-VKGN-T-F--SGETTTKAI-DTA-T-AEK-E-F-K-QYATANNVDGEWSYDDATKTFTVTE
+#=GR UniRef90_Q53975/223-278        PP 7899.8.7.5414.4.5..67888999*.***.*.***.*.*.*.***********************98
+UniRef90_Q53975/293-348                TTYK-L-I-VK-GNT-F--SGETTTKAV-DAE-T-AEK-A-F-K-QYATANNVDGEWSYDDATKTFTVTE
+#=GR UniRef90_Q53975/293-348        PP 7999.8.7.55.414.5..67889999*.***.*.***.*.*.*.***********************98
+UniRef90_Q53975/363-418                TTYK-L-I-VK-GNT-F--SGETTTKAI-DAA-T-AEK-E-F-K-QYATANGVDGEWSYDDATKTFTVTE
+#=GR UniRef90_Q53975/363-418        PP 7999.8.7.55.414.5..67888999*.***.*.***.*.*.*.***********************98
+UniRef90_Q53975/433-488                TTYK-L-I-VK-GNT-F--SGETTTKAV-DAE-T-AEK-A-F-K-QYANENGVYGEWSYDDATKTFTVTE
+#=GR UniRef90_Q53975/433-488        PP 7999.8.7.55.414.5..67889999*.***.*.***.*.*.*.***********************98
+UniRef90_Q53975/503-558                TTYK-LVI-NG-K-T-L--KGETTTKAV-DAE-T-AEK-A-F-K-QYANENGVDGVWTYDDATKTFTVTE
+#=GR UniRef90_Q53975/503-558        PP 89*9.846.99.*.*.*..*********.***.*.***.*.*.*.***********************98
+UniRef90_K4Q980/104-144                ----------L-A-K-A--KADALKEFN-KYG-V-SDY-Y-K-N-LINNAKTVEGVKDLQAQV-------
+#=GR UniRef90_K4Q980/104-144        PP ..........6.7.8.9..*********.***.*.***.*.*.*.***********9887665.......
+UniRef90_K4Q980/173-219                -TVK-S-I-EL-A-E-A--KVLANRELD-KYG-V-SDY-H-K-N-LINNAKTVEGVKDLQAQV-------
+#=GR UniRef90_K4Q980/173-219        PP .779.9.9.**.*.*.*..*********.***.*.**9.9.9.*.***********9887665.......
+UniRef90_K4Q980/248-295                -TVK-S-I-EL-A-E-A--KVLANRELD-KYG-V-SDY-Y-K-N-LINNAKTVEGVKALIDEIL------
+#=GR UniRef90_K4Q980/248-295        PP .779.9.9.**.*.*.*..*********.***.*.***.*.*.*.****************985......
+UniRef90_K4Q980/303-357                -TYK-L-ILNG-K-T-L--KGETTTEAV-DAA-T-AEK-V-F-K-QYANDNGVDGEWTYDDATKTFTVTE
+#=GR UniRef90_K4Q980/303-357        PP .899.8.5499.*.*.*..*********.***.*.***.*.*.*.***********************98
+UniRef90_K4Q980/372-427                TTYK-LVI-NG-K-T-L--KGETTTKAV-DAE-T-AEK-A-F-K-QYANDNGVDGVWTYDDATKTFTVTE
+#=GR UniRef90_K4Q980/372-427        PP 89*9.846.99.*.*.*..*********.***.*.***.*.*.*.***********************98
+UniRef90_A0A4U9YG32/214-257            -----V-D-AL-A-K-A--KADAINAIK-KYG-V-SDY-Y-V-K-LINNAKTVEGVNALKDEI-------
+#=GR UniRef90_A0A4U9YG32/214-257    PP .....5.5.68.8.9.*..*********.***.*.***.*.*.*.*****************8.......
+UniRef90_A0A4U9YG32/275-330            TTYK-L-V-VKGN-T-F--SGETTTKAV-DAA-T-AEK-E-F-K-QYAIANGVDGEWTYDDATKTFTVTE
+#=GR UniRef90_A0A4U9YG32/275-330    PP 7899.8.7.5414.4.5..67889999*.***.*.***.*.*.*.***********************98
+UniRef90_A0A4U9YG32/345-400            TTYK-L-V-VKGN-S-F--SGETTTKAV-DAA-T-AEK-E-F-K-QYATANGVDGEWTYDDATKTFTVTE
+#=GR UniRef90_A0A4U9YG32/345-400    PP 7899.8.7.5414.5.5..67889999*.***.*.***.*.*.*.***********************98
+UniRef90_A0A4U9YG32/415-470            TTYK-L-VVKG-K-T-F--SGETTTKAV-DAA-T-AEK-A-F-K-QYANENGVDGVWTYDDATKTFTVTE
+#=GR UniRef90_A0A4U9YG32/415-470    PP 7999.8.6255.7.7.7..8899999**.***.*.***.*.*.*.***********************98
+UniRef90_A0A448DI38/223-278            TTYK-L-V-VKGN-S-F--SGETTTKAV-DAA-T-AEK-E-F-K-QYATANGVDGEWTYDNATKTFTVTE
+#=GR UniRef90_A0A448DI38/223-278    PP 7899.8.7.5414.5.5..67889999*.***.*.***.*.*.*.***********************98
+UniRef90_A0A448DI38/293-348            TTYK-L-V-IKGN-S-F--SGETTTKAV-DAA-T-AEK-E-F-K-QYATANGVDGEWTYDDATKTFTVTE
+#=GR UniRef90_A0A448DI38/293-348    PP 7999.8.7.5414.5.5..77899999*.***.*.***.*.*.*.***********************98
+UniRef90_A0A448DI38/363-418            TTYK-L-V-VKGN-S-F--SGETTTKAV-DAE-T-AEK-A-F-K-QYANENGVDGVWTYDDATKTFTVTE
+#=GR UniRef90_A0A448DI38/363-418    PP 7899.8.7.5414.5.5..67889999*.***.*.***.*.*.*.***********************98
+UniRef90_A0A448DI38/433-488            TTYK-LVI-NG-K-T-L--KGETTTKAV-DAE-T-AEK-A-F-K-QYATANGVDGVWTYDDATKTFTVTE
+#=GR UniRef90_A0A448DI38/433-488    PP 89*9.846.99.*.*.*..*********.***.*.***.*.*.*.***********************98
+UniRef90_A0A380JVQ2/217-258            ----------L-A-K-A--KADAIETLK-KYG-I-GDY-Y-I-K-LINNGKTAEGVTALKDEIL------
+#=GR UniRef90_A0A380JVQ2/217-258    PP ..........7.8.9.9..*********.***.*.***.*.*.*.*****************95......
+UniRef90_A0A380JVQ2/275-330            TTYK-L-I-VK-GNT-F--SGETTTKAI-DAA-T-AEK-E-F-K-QYATANNVDDEWSYDDATKTFTVTE
+#=GR UniRef90_A0A380JVQ2/275-330    PP 7999.8.7.55.414.5..67888999*.***.*.***.*.*.*.***********************98
+UniRef90_A0A380JVQ2/345-400            TTYK-L-I-VK-GNT-F--SGETTTKAI-DAA-T-AEK-E-F-K-QYATANGVDGEWSYDDATKTFTVTE
+#=GR UniRef90_A0A380JVQ2/345-400    PP 7999.8.7.55.414.5..67888999*.***.*.***.*.*.*.***********************98
+UniRef90_A0A380JVQ2/415-470            TTYK-LVI-NG-K-T-L--KGETTTKAV-DAE-T-AEK-A-F-K-QYANENGVDGVWTYDDATKTFTVTE
+#=GR UniRef90_A0A380JVQ2/415-470    PP 89*9.846.99.*.*.*..*********.***.*.***.*.*.*.***********************98
+UniRef90_Q54181/2-45                   -------------------KGETTTEAV-DAA-T-AEK-V-F-K-QYANDNGVDGEWTYDDATKTFTVTE
+#=GR UniRef90_Q54181/2-45           PP ...................5678899**.***.*.***.*.*.*.***********************98
+UniRef90_Q54181/60-115                 TTYK-LVI-NG-K-T-L--KGETTTEAV-DAA-T-AEK-V-F-K-QYANDNGVDGEWTYDDATKTFTVTE
+#=GR UniRef90_Q54181/60-115         PP 89*9.846.99.*.*.*..*********.***.*.***.*.*.*.***********************98
+UniRef90_Q54181/130-185                TTYK-LVI-NG-K-T-L--KGETTTKAV-DAE-T-AEK-A-F-K-QYANDNGVDGVWTYDDATKTFTVTE
+#=GR UniRef90_Q54181/130-185        PP 89*9.846.99.*.*.*..*********.***.*.***.*.*.*.***********************98
+UniRef90_P06654/104-144                ----------L-A-K-A--KADALKEFN-KYG-V-SDY-Y-K-N-LINNAKTVEGIKDLQAQV-------
+#=GR UniRef90_P06654/104-144        PP ..........6.7.8.9..*********.***.*.***.*.*.*.***********9887665.......
+UniRef90_P06654/173-220                -TVK-S-I-EL-A-E-A--KVLANRELD-KYG-V-SDY-H-K-N-LINNAKTVEGVKELIDEIL------
+#=GR UniRef90_P06654/173-220        PP .779.9.9.**.*.*.*..*********.***.*.**9.9.9.*.****************985......
+UniRef90_P06654/228-282                -TYK-L-ILNG-K-T-L--KGETTTEAV-DAA-T-AEK-V-F-K-QYANDNGVDGEWTYDDATKTFTVTE
+#=GR UniRef90_P06654/228-282        PP .899.8.5499.*.*.*..*********.***.*.***.*.*.*.***********************98
+UniRef90_P06654/297-352                TTYK-LVI-NG-K-T-L--KGETTTKAV-DAE-T-AEK-A-F-K-QYANDNGVDGVWTYDDATKTFTVTE
+#=GR UniRef90_P06654/297-352        PP 89*9.846.99.*.*.*..*********.***.*.***.*.*.*.***********************98
+UniRef90_UPI0019515148/203-243         ----------L-A-K-A--KADALKEFN-KYG-V-SDY-Y-A-N-LVNKAKTVEGVKDLQAQV-------
+#=GR UniRef90_UPI0019515148/203-243 PP ..........6.7.8.9..*********.***.*.***.*.*.*.***********9987665.......
+UniRef90_UPI0019515148/272-319         -TVK-S-I-EL-A-E-A--KVLANRELD-KYG-V-SDY-Y-K-N-LINNAKTVEGVKALIDEIL------
+#=GR UniRef90_UPI0019515148/272-319 PP .779.9.9.**.*.*.*..*********.***.*.***.*.*.*.****************985......
+UniRef90_UPI0019515148/327-381         -TYK-L-ILNG-K-T-L--KGETTTEAV-DAA-T-AEK-V-F-K-QYANDNGVDGEWTYDDATKTFTVTE
+#=GR UniRef90_UPI0019515148/327-381 PP .899.8.5499.*.*.*..*********.***.*.***.*.*.*.***********************98
+UniRef90_UPI0019515148/396-451         TTYK-LVI-NG-K-T-L--KGETTTKAV-DAE-T-AEK-A-F-K-QYANDNGVDGVWTYDDATKTFTVTE
+#=GR UniRef90_UPI0019515148/396-451 PP 89*9.846.99.*.*.*..*********.***.*.***.*.*.*.***********************98
+UniRef90_Q51918/554-596                ----------L-K-N-A--KEEAIKELK-EAGIT-SDL-Y-F-S-LINKAKTVEGVEALKNEIL------
+#=GR UniRef90_Q51918/554-596        PP ..........8.9.*.*..*********.***77.899.*.*.*.****************984......
+UniRef90_Q51918/733-774                ----------L-K-N-A--KEDAIKELK-EAG-ISSDI-Y-F-D-AINKAKTVEGVEALKNEI-------
+#=GR UniRef90_Q51918/733-774        PP ..........8.9.*.*..*********.***.62578.*.*.*.****************98.......
+UniRef90_Q51918/795-836                ----------L-K-N-A--KEAAIKELK-EAGIT-AEY-L-F-N-LINKAKTVEGVESLKNEI-------
+#=GR UniRef90_Q51918/795-836        PP ..........8.9.*.*..*********.***77.888.8.*.*.****************98.......
+UniRef90_Q51918/857-898                ----------L-K-N-A--KEDAIKELK-EAGIT-SDI-Y-F-D-AINKAKTIEGVEALKNEI-------
+#=GR UniRef90_Q51918/857-898        PP ..........8.9.*.*..*********.***77.899.*.*.*.****************98.......
+UniRef90_UPI001869144E/276-316         ----------L-A-K-A--KADALKEFN-KYG-V-SDY-Y-A-N-LVNKAKTVEGVKDLQAQV-------
+#=GR UniRef90_UPI001869144E/276-316 PP ..........7.8.9.9..*********.***.*.***.*.*.*.***********9887665.......
+UniRef90_UPI001869144E/345-392         -TVK-S-I-EL-A-E-A--KVLANRELD-KHG-V-SDY-Y-K-N-LINNAKTVEGVKALLDEIL------
+#=GR UniRef90_UPI001869144E/345-392 PP .779.9.9.**.*.*.*..*********.***.*.***.*.*.*.*****************95......
+UniRef90_UPI001869144E/400-454         -TYK-L-ILNG-K-T-F--KGETAIEAV-DAA-T-AEK-E-F-K-QYATANGVDGEWTYDDATKTFTVTE
+#=GR UniRef90_UPI001869144E/400-454 PP .899.8.5499.9.9.*..***999***.***.*.***.*.*.*.***********************98
+UniRef90_UPI001869144E/469-524         TTYK-LVI-NG-K-T-L--KGETTTKAV-DAE-T-AEK-A-F-K-QYANENGVDGVWTYDDATKTFTVTE
+#=GR UniRef90_UPI001869144E/469-524 PP 89*9.846.99.*.*.*..*********.***.*.***.*.*.*.***********************98
+UniRef90_A0A233V257/179-222            -------W-NL-K-N-A--KEEAIKELK-EAGVT-SDL-F-L-N-QIRNAKTIEGVKALKDQL-------
+#=GR UniRef90_A0A233V257/179-222    PP .......5.9*.*.*.*..*********.***55.677.8.8.9.9***************97.......
+UniRef90_A0A233V257/238-281            -------W-NL-K-N-A--KEEAIKELK-EAGVT-SDL-F-L-N-QIRNAKTIEGVKALKDQL-------
+#=GR UniRef90_A0A233V257/238-281    PP .......5.9*.*.*.*..*********.***55.677.8.8.9.9***************97.......
+UniRef90_A0A233V257/297-340            -------W-NL-K-N-A--KEEAIKELK-EAGIT-SDL-Y-F-D-AINKAKTVEGVEALKNEI-------
+#=GR UniRef90_A0A233V257/297-340    PP .......5.9*.*.*.*..*********.***77.899.*.*.*.****************98.......
+UniRef90_UPI0014525AF5/104-144         ----------L-A-K-A--KADALKEFN-KYG-V-SDY-Y-K-N-LINNAKTVEGVKDLQAQV-------
+#=GR UniRef90_UPI0014525AF5/104-144 PP ..........6.7.8.9..*********.***.*.***.*.*.*.***********9987665.......
+UniRef90_UPI0014525AF5/173-219         -TVK-S-I-EL-A-E-A--KVLANRELD-KYG-V-SDY-H-K-N-LINNAKTVEGVKDLQAQV-------
+#=GR UniRef90_UPI0014525AF5/173-219 PP .779.9.9.**.*.*.*..*********.***.*.**9.9.9.*.***********9987665.......
+UniRef90_UPI0014525AF5/248-295         -TVK-S-I-EL-A-E-A--KVLANRELD-KYG-V-SDY-Y-K-N-LINNAKTVEGVKALIDEIL------
+#=GR UniRef90_UPI0014525AF5/248-295 PP .779.9.9.**.*.*.*..*********.***.*.***.*.*.*.****************985......
+UniRef90_UPI0014525AF5/303-357         -TYK-L-ILNG-K-T-L--KGETTTEAV-DAE-T-AEK-A-F-K-QYANDNGVDGVWTYDDATKTFTVTE
+#=GR UniRef90_UPI0014525AF5/303-357 PP .899.8.5499.*.*.*..*********.***.*.***.*.*.*.***********************98
+UniRef90_UPI00017EE951/1-56            TTYK-L-ILNL-K-Q-A--KEEAIKELV-DAG-I-AEK-Y-I-K-LIANAKTVEGVWTLKDEILTFTVTE
+#=GR UniRef90_UPI00017EE951/1-56    PP 89**.8.55**.*.*.*..*********.***.*.***.*.*.*.***********************98
+UniRef90_UPI00017EE952/1-56            TTYK-L-ILNL-K-Q-A--KEEAIKELV-DAA-T-AEK-Y-F-K-LYANAKTVEGVWTYKDETKTFTVTE
+#=GR UniRef90_UPI00017EE952/1-56    PP 89**.8.55**.*.*.*..*********.***.*.***.*.*.*.***********************98
+UniRef90_UPI000B91CFC3/175-216         ----------L-E-A-A--KEKAIKELK-EAGIT-SDL-L-L-N-QIKNAKTIDGVNALKAEL-------
+#=GR UniRef90_UPI000B91CFC3/175-216 PP ..........7.8.9.*..*********.***66.788.8.9.9.***************986.......
+UniRef90_UPI000B91CFC3/234-275         ----------L-S-Q-A--KEKAIKELK-EAGIT-SDL-L-L-N-QIKNAKTIDGVNALKAEL-------
+#=GR UniRef90_UPI000B91CFC3/234-275 PP ..........7.8.*.*..*********.***66.788.8.9.9.***************986.......
+UniRef90_UPI000B91CFC3/293-334         ----------L-S-Q-A--KEKAIKELK-DAGIT-SDL-L-L-D-QINKAKTVEGVEALKAEI-------
+#=GR UniRef90_UPI000B91CFC3/293-334 PP ..........8.9.*.*..*********.***66.778.8.9.9.9**************998.......
+UniRef90_UPI000B91CFC3/356-397         ----------L-K-N-A--KEEAIKELK-EAGIT-SDF-Y-F-N-AINKAKTVEGVEALKNEI-------
+#=GR UniRef90_UPI000B91CFC3/356-397 PP ..........8.9.*.*..*********.***67.899.*.*.*.****************98.......
+UniRef90_UPI0019085562/33-75           ---------DL-K-D-A--KEKAIKELK-AAGIT-GQI-Y-F-D-QINKAKTVEGVESLKNEI-------
+#=GR UniRef90_UPI0019085562/33-75   PP .........69.*.*.*..*********.**967.899.*.*.*.****************98.......
+UniRef90_UPI0019085562/99-138          --------------N-A--KKDAIEELK-AAGIT-GQI-Y-F-D-QINKAKTIEGVESLKNEI-------
+#=GR UniRef90_UPI0019085562/99-138  PP ..............6.8..99*******.**967.899.*.*.*.****************98.......
+UniRef90_UPI0019085562/162-201         --------------N-A--KKDAIEELK-AAGIT-SDF-Y-F-N-LINKAKTIEGVEALKNEI-------
+#=GR UniRef90_UPI0019085562/162-201 PP ..............6.8..99*******.**967.899.*.*.*.****************98.......
+UniRef90_UPI0019085562/225-264         --------------N-A--KKDAIEELK-AAGIT-GQI-Y-F-D-QINKAKTIEGVEALKNEI-------
+#=GR UniRef90_UPI0019085562/225-264 PP ..............6.8..99*******.**967.899.*.*.*.****************98.......
+UniRef90_A0A4V0E9Z3/273-327            -TYK-L-VLNG-K-T-F--KGETTTEAV-DAA-A-AEK-E-F-K-LFATANGVDGEWSYDDATKTFTVTE
+#=GR UniRef90_A0A4V0E9Z3/273-327    PP .899.8.5499.*.*.*..*********.***.*.***.*.*.*.***********************98
+UniRef90_A0A4V0E9Z3/342-397            TTYK-L-V-VKGN-S-F--SGETTTKAV-DAA-T-AEK-E-F-K-QYATANGVDGEWTYDDATKTFTVTE
+#=GR UniRef90_A0A4V0E9Z3/342-397    PP 7899.8.7.5414.5.5..67889999*.***.*.***.*.*.*.***********************98
+UniRef90_A0A4V0E9Z3/412-467            TTYK-L-VVKG-K-T-F--SGETTTKAV-DAA-T-AEK-A-F-K-QYANENGVDGVWTYDDATKTFTVTE
+#=GR UniRef90_A0A4V0E9Z3/412-467    PP 7999.8.6255.7.7.7..8899999**.***.*.***.*.*.*.***********************98
+UniRef90_G5JZF8/251-288                --------------A-A--KEAAKAELA-AAG-A-SDF-Y-I-N-KIDTANTVDGVNALKDA--------
+#=GR UniRef90_G5JZF8/251-288        PP ..............4.6..7777779**.***.*.***.*.*.*.***************96........
+UniRef90_G5JZF8/295-337                -----A-S-AL-D-E-A--KKAAKAELA-SAG-V-SDF-Y-I-N-KIDGANTVEGVNALKDA--------
+#=GR UniRef90_G5JZF8/295-337        PP .....5.5.68.8.9.*..*********.***.*.***.*.*.*.***************96........
+UniRef90_G5JZF8/342-386                --MK-A-L-AL-D-E-A--KKAAKAELA-SAG-V-SDF-Y-I-N-KIDGANTVEGVNALKDA--------
+#=GR UniRef90_G5JZF8/342-386        PP ..57.7.8.89.9.*.*..*********.***.*.***.*.*.*.***************96........
+UniRef90_G5JZF8/391-436                --MK-A-L-AL-D-E-A--KKAAKAELA-SAG-V-SDF-Y-I-N-KIDGANTVEGVNALKDSI-------
+#=GR UniRef90_G5JZF8/391-436        PP ..57.7.8.89.9.*.*..*********.***.*.***.*.*.*.****************97.......
+UniRef90_G5JZF8/452-492                ----------L-A-A-A--KEAAKAELA-AAG-V-SDF-Y-I-N-KIDGANTVEGVKALKDAI-------
+#=GR UniRef90_G5JZF8/452-492        PP ..........5.6.7.9..999999***.***.*.***.*.*.*.****************87.......
+UniRef90_UPI000617DACF/14-68           -TYK-L-ILNG-K-T-L--KGETTTEAV-DAA-T-AEK-V-F-K-QYANDNGVDGEWTYDDATKTFTVTE
+#=GR UniRef90_UPI000617DACF/14-68   PP .899.8.5499.*.*.*..*********.***.*.***.*.*.*.***********************98
+UniRef90_UPI000617DACF/83-138          TTYK-LVI-NG-K-T-L--KGETTTKAV-DAE-T-AEK-A-F-K-QYANDNGVDGVWTYDDATKTFTVTE
+#=GR UniRef90_UPI000617DACF/83-138  PP 89*9.846.99.*.*.*..*********.***.*.***.*.*.*.***********************98
+UniRef90_A0A317LSR7/174-219            ---K-A-A-EL-Q-Y-A--KEAAIKELK-EAGIT-SEY-L-F-N-LINKAKTVEGVESLKNEI-------
+#=GR UniRef90_A0A317LSR7/174-219    PP ...5.6.7.89.9.9.*..*********.***45.566.6.9.*.****************98.......
+UniRef90_A0A317LSR7/305-350            ---K-A-A-EL-E-Y-A--KENAIKELK-EAG-I-TSD-F-FLD-QIRKAKTIEGVNALKDEL-------
+#=GR UniRef90_A0A317LSR7/305-350    PP ...5.6.7.89.9.9.*..*********.***.7.666.5.527.9***************96.......
+UniRef90_A0A317LSR7/368-409            ----------L-K-N-A--KEDAIKELK-EAGIT-SDI-Y-F-D-AINKAKTVEGVEALKNEI-------
+#=GR UniRef90_A0A317LSR7/368-409    PP ..........8.9.*.*..*********.***77.899.*.*.*.****************98.......
+UniRef90_Q53291/330-384                -TYK-L-ILNG-K-T-L--KGETTTEAV-DAA-T-AEK-V-F-K-QYANDNGVDGEWTYDDATKTFTVTE
+#=GR UniRef90_Q53291/330-384        PP .899.8.5499.*.*.*..*********.***.*.***.*.*.*.***********************98
+UniRef90_Q53291/399-454                TTYK-LVI-NG-K-T-L--KGETTTKAV-DAE-T-AEK-A-F-K-QYANDNGVDGVWTYDDATKTFTVTE
+#=GR UniRef90_Q53291/399-454        PP 89*9.846.99.*.*.*..*********.***.*.***.*.*.*.***********************98
+UniRef90_UPI000824553D/104-144         ----------L-A-K-A--KADALKEFN-KYG-V-SDY-Y-K-N-LINNAKTVEGVKDLQAQV-------
+#=GR UniRef90_UPI000824553D/104-144 PP ..........6.7.8.9..*********.***.*.***.*.*.*.***********9987665.......
+UniRef90_UPI000824553D/173-219         -TVK-S-I-EL-A-E-A--KVLANRELD-KYG-V-SDY-H-K-N-LINNAKTVEGVKDLQAQV-------
+#=GR UniRef90_UPI000824553D/173-219 PP .779.9.9.**.*.*.*..*********.***.*.**9.9.9.*.***********9987665.......
+UniRef90_UPI000824553D/248-294         -TVK-S-I-EL-A-E-A--KVLANRELD-KYG-V-SDY-H-K-N-LINNAKTVEGVKDLQAQV-------
+#=GR UniRef90_UPI000824553D/248-294 PP .779.9.9.**.*.*.*..*********.***.*.**9.9.9.*.***********9987665.......
+UniRef90_UPI000824553D/323-369         -TVK-S-I-EL-A-E-A--KVLANRELD-KYG-V-SDY-H-K-N-LINNAKTVEGVKDLQAQV-------
+#=GR UniRef90_UPI000824553D/323-369 PP .779.9.9.**.*.*.*..*********.***.*.**9.9.9.*.***********9887665.......
+UniRef90_A0A2X3S9V4/171-212            ----------L-L-K-A--KEAAINELK-QYG-I-SDY-Y-V-T-LINKAKTVEGVNALKAEIL------
+#=GR UniRef90_A0A2X3S9V4/171-212    PP ..........5.6.8.9..*********.***.*.***.*.*.*.***************9986......
+UniRef90_A0A2X3S9V4/231-286            TSYK-L-V-I--K-G-ATFSGETATKAV-DAA-V-AEQ-T-F-R-DYANKNGVDGVWAYDAATKTFTVTE
+#=GR UniRef90_A0A2X3S9V4/231-286    PP 5677.7.6.3..3.3.31145667779*.***.*.***.*.*.*.***********************98
+UniRef90_A0A2X3S9V4/303-358            TTYK-L-V-I--K-G-ATFSGETSTKAV-DAA-T-AEQ-T-F-R-QYANDNGVTGEWAYDATTKTFTVTE
+#=GR UniRef90_A0A2X3S9V4/303-358    PP 7899.8.7.4..4.3.31256778889*.***.*.***.*.*.*.***********************98
+UniRef90_UPI0011E81E4B/104-145         ----------L-A-K-A--KADALKEFN-KYG-V-SDY-Y-K-N-LINNAKTVEGVKALIDEIL------
+#=GR UniRef90_UPI0011E81E4B/104-145 PP ..........6.7.8.9..*********.***.*.***.*.*.*.****************985......
+UniRef90_UPI0011E81E4B/153-207         -TYK-L-ILNG-K-T-L--KGETTTEAV-DAA-T-AEK-V-F-K-QYANDNGVDGEWTYDDATKTFTVTE
+#=GR UniRef90_UPI0011E81E4B/153-207 PP .899.8.5499.*.*.*..*********.***.*.***.*.*.*.***********************98
+UniRef90_UPI00042883B2/124-165         ---------AL-A-K-A--KEAALKEFN-QYG-V-SDY-Y-K-K-LIEKASTVEGVQQLQAQV-------
+#=GR UniRef90_UPI00042883B2/124-165 PP .........57.8.9.*..*********.***.*.***.*.*.*.***********9998765.......
+UniRef90_UPI00042883B2/171-215         -----E-A-RL-S-E-A--KALAIGELD-KRG-V-SDY-Y-K-K-LINNAKTIEGINALKAEIL------
+#=GR UniRef90_UPI00042883B2/171-215 PP .....5.6.79.9.9.*..*********.***.*.***.*.*.*.***************9985......
+UniRef90_UPI00042883B2/234-289         TTYK-L-V-IK-G-QTL--KGETTVKAA-TAE-A-AEK-A-F-R-LYANKNGISGEWAYDDATKTFTVTE
+#=GR UniRef90_UPI00042883B2/234-289 PP 7999.9.8.66.5.525..888888899.99*.*.***.*.*.*.***********************98
+UniRef90_Q53974/196-240                -----A-A-AL-A-K-A--KADAIEILK-KYG-I-GDY-Y-I-K-LINNGKTAEGVTALKDEIL------
+#=GR UniRef90_Q53974/196-240        PP .....5.6.68.8.9.*..*********.***.*.***.*.*.*.*****************95......
+UniRef90_Q53974/257-312                TTYK-LVI-NG-K-T-L--KGETTTKAV-DAE-T-AEK-A-F-K-QYANENGVDGVWTYDDATKTFTVTE
+#=GR UniRef90_Q53974/257-312        PP 89*9.846.99.*.*.*..*********.***.*.***.*.*.*.***********************98
+UniRef90_UPI000579AB14/68-97           -----L-A-NI-A-S-G--NDEAIKQVI-DAG-A-LEK-L-V-E-LLTH---------------------
+#=GR UniRef90_UPI000579AB14/68-97   PP .....7.8.99.9.9.*..*********.***.*.***.*.9.9.9875.....................
+UniRef90_UPI000579AB14/110-139         -----L-A-NI-A-S-G--NDEAIKQVI-DAG-A-LEK-L-V-E-LLTH---------------------
+#=GR UniRef90_UPI000579AB14/110-139 PP .....7.8.99.9.9.*..*********.***.*.***.*.9.9.9875.....................
+UniRef90_UPI000579AB14/152-181         -----L-A-NI-A-S-G--NDEAIKQVI-DAG-A-LEK-L-V-E-LLTH---------------------
+#=GR UniRef90_UPI000579AB14/152-181 PP .....7.8.99.9.9.*..*********.***.*.***.*.9.9.9875.....................
+UniRef90_Q53833/264-305                ---------AL-A-K-A--KADALKEFN-KYG-V-SDY-Y-K-N-LINNAKTVEGVKDLQAQV-------
+#=GR UniRef90_Q53833/264-305        PP .........57.8.9.*..*********.***.*.***.*.*.*.***********9887665.......
+UniRef90_Q53833/334-380                -TVK-S-I-EL-A-E-A--KVLANRELD-KYG-V-SDY-H-K-N-LINNAKTVEGVKDLQAQV-------
+#=GR UniRef90_Q53833/334-380        PP .779.9.9.**.*.*.*..*********.***.*.**9.9.9.*.***********9887665.......
+UniRef90_Q53833/409-456                -TVK-S-I-EL-A-E-A--KVLANRELD-KYG-V-SDY-Y-K-N-LINNAKTVEGVKALIDEIL------
+#=GR UniRef90_Q53833/409-456        PP .779.9.9.**.*.*.*..*********.***.*.***.*.*.*.*****************95......
+UniRef90_UPI0018E15FF8/113-154         ---------EL-E-A-A--KDAALKELN-QYG-V-SDY-Y-K-K-LVNSAKTVAGVKKLQAQV-------
+#=GR UniRef90_UPI0018E15FF8/113-154 PP .........57.8.9.9..*********.***.*.***.*.*.*.***********9887665.......
+UniRef90_UPI0018E15FF8/183-229         -TIK-S-L-EL-S-E-A--KTLALREFD-KYG-V-SDY-Y-K-K-LVNSAKTVAGVKKLQAQV-------
+#=GR UniRef90_UPI0018E15FF8/183-229 PP .678.9.9.9*.*.*.*..*********.***.*.***.*.*.*.***********9887665.......
+UniRef90_UPI0018E15FF8/258-305         -TIK-S-L-EL-S-E-A--KTLALREFD-KYG-V-SDY-Y-K-K-LVNSAKTVEGVAALKDLIL------
+#=GR UniRef90_UPI0018E15FF8/258-305 PP .678.9.9.9*.*.*.*..*********.***.*.***.*.*.*.****************875......
+UniRef90_UPI0011D12683/247-289         ---------EL-E-Y-A--KENAIKELK-EAG-V-TSQ-FIF-N-LINKGKTVEGVNAIKDQI-------
+#=GR UniRef90_UPI0011D12683/247-289 PP .........68.9.9.*..*********.***.6.655.439.*.****************98.......
+UniRef90_UPI0011D12683/321-366         ---K-A-A-EL-E-Y-A--KENAIKELK-EAG-I-TSD-F-FLD-QIRKAKTIEGVNALKDEL-------
+#=GR UniRef90_UPI0011D12683/321-366 PP ...5.6.7.89.9.9.*..*********.***.7.666.5.527.9***************97.......
+UniRef90_A0A0P6S320/129-170            ---------KL-E-F-A--KDAALKEFD-KYG-V-SDF-Y-K-K-MIEKAGTVEGVKQLQSEV-------
+#=GR UniRef90_A0A0P6S320/129-170    PP .........57.8.8.9..*********.***.*.***.*.*.*.*************99997.......
+UniRef90_A0A0P6S320/199-245            -TVK-A-I-EL-A-E-A--KDAALKEFD-KYG-V-SDF-Y-K-K-MIEKAGTVEGVKQLQSEV-------
+#=GR UniRef90_A0A0P6S320/199-245    PP .789.9.*.**.*.*.*..*********.***.*.***.*.*.*.**************9997.......
+UniRef90_A0A0P6S320/274-320            -TIK-S-I-KL-S-E-A--KAAAKAELK-AAG-V-SDF-F-I-S-KIDGAKTVEGVKALKELI-------
+#=GR UniRef90_A0A0P6S320/274-320    PP .779.9.9.**.*.*.*..*********.***.*.***.*.*.*.**************9876.......
+UniRef90_UPI000691A021/51-92           ---------KL-E-F-A--KDAALKEFD-KYG-V-SDF-Y-K-K-MIEKAGTVEGVKQLQSEV-------
+#=GR UniRef90_UPI000691A021/51-92   PP .........57.8.8.9..*********.***.*.***.*.*.*.*************99997.......
+UniRef90_UPI000691A021/121-167         -TVK-A-I-EL-A-E-A--KAMALKEFD-KYG-V-SDF-Y-K-K-MIEKAGTVEGVKQLQSEV-------
+#=GR UniRef90_UPI000691A021/121-167 PP .789.9.*.**.*.*.*..*********.***.*.***.*.*.*.*************99997.......
+UniRef90_UPI000691A021/196-242         -TIK-S-I-KL-S-E-A--KAAAKAELK-AAG-V-SDF-F-I-S-KIDGAKTVEGVKALKELI-------
+#=GR UniRef90_UPI000691A021/196-242 PP .779.9.9.**.*.*.*..*********.***.*.***.*.*.*.**************9876.......
+UniRef90_F9P4J6/59-105                 -TIK-S-L-EL-S-E-A--KTLALREFD-KYG-V-SDY-Y-K-K-LVNSAKTVAGVKKLQAQV-------
+#=GR UniRef90_F9P4J6/59-105         PP .678.9.9.9*.*.*.*..*********.***.*.***.*.*.*.***********9988665.......
+UniRef90_F9P4J6/134-181                -TIK-S-L-EL-S-E-A--KTLALREFD-KYG-V-SDY-Y-K-K-LVNSAKTVEGVAALKDLIL------
+#=GR UniRef90_F9P4J6/134-181        PP .678.9.9.9*.*.*.*..*********.***.*.***.*.*.*.****************875......
+UniRef90_A0A6H2KLV2/140-184            ---K-V-A-AL-D-Q-A--KQAALKEFD-RYG-V-SNY-Y-K-N-LINKAKTVEGIMELQAQV-------
+#=GR UniRef90_A0A6H2KLV2/140-184    PP ...6.6.7.79.9.*.*..********9.99*.9.999.9.9.9.***********9998765.......
+UniRef90_A0A6H2KLV2/213-259            -TLK-S-I-KL-S-E-A--KEMAIRELD-AQG-V-SDF-Y-K-N-KINNAKTVEGVVALKDLI-------
+#=GR UniRef90_A0A6H2KLV2/213-259    PP .789.9.*.**.*.*.*..********9.99*.*.***.*.*.*.***************977.......
+UniRef90_Q53337/2-57                   TTYK-LVI-NG-K-T-L--KGETTTKTV-DAE-T-AEK-A-F-K-QYANDNGVDGVWTYDDATKTFTVTE
+#=GR UniRef90_Q53337/2-57           PP 89*9.846.99.*.*.*..*********.***.*.***.*.*.*.***********************98
+UniRef90_UPI0000111872/2-56            -TYK-L-ILNG-K-T-L--KGETTTEAV-DAA-T-AEK-V-F-K-QYANDNGVDGEWTYDDATKTFTVTE
+#=GR UniRef90_UPI0000111872/2-56    PP .899.8.5499.*.*.*..*********.***.*.***.*.*.*.***********************98
+UniRef90_UPI000194EC44/3-57            -TYK-L-ILNG-K-T-L--KGETTTEAV-DAA-T-AEK-V-F-K-QYANEHGVDGEWTYDPETKTFTVTE
+#=GR UniRef90_UPI000194EC44/3-57    PP .899.8.5499.*.*.*..*********.***.*.***.*.*.*.***********************98
+UniRef90_UPI001896D942/114-154         ----------L-E-A-A--KDAALKELN-QYG-V-SDY-Y-K-K-LVNSAKTVAGVKKLQAQV-------
+#=GR UniRef90_UPI001896D942/114-154 PP ..........7.8.9.9..*********.***.*.***.*.*.*.***********9887665.......
+UniRef90_UPI001896D942/183-230         -TIK-S-L-EL-S-E-A--KTLALREFD-KYG-V-SDY-Y-K-K-LVNSAKTVEGVATLKDLIL------
+#=GR UniRef90_UPI001896D942/183-230 PP .678.9.9.9*.*.*.*..*********.***.*.***.*.*.*.****************875......
+UniRef90_UPI000FF874A8/2-56            -TYK-L-ILNG-K-T-H--KGELTTEAV-DAA-T-AEK-H-F-K-QHANDLGVDGEWTYDDATKTFTVTE
+#=GR UniRef90_UPI000FF874A8/2-56    PP .899.8.5499.9.*.*..*********.***.*.***.*.*.*.***********************98
+UniRef90_UPI0000112952/14-69           TTYK-LVI-NG-K-T-L--KGETTTKAV-DAE-T-AEK-A-F-K-QYANDNGVDGVWTYDDATKTFTVTE
+#=GR UniRef90_UPI0000112952/14-69   PP 89*9.846.99.*.*.*..*********.***.*.***.*.*.*.***********************98
+UniRef90_UPI0013F5BE3F/167-208         ----------L-L-E-A--KEAAINELK-QYG-I-SDY-Y-V-T-LINKAKTVEGVNALKAEIL------
+#=GR UniRef90_UPI0013F5BE3F/167-208 PP ..........6.7.8.*..*********.***.*.***.*.*.*.***************9986......
+UniRef90_UPI0013F5BE3F/227-282         TSYK-L-V-I--K-G-ATFSGETATKAV-DAA-T-AEQ-T-F-R-QYANDNGVTGEWAYDAATKTFTVTE
+#=GR UniRef90_UPI0013F5BE3F/227-282 PP 5677.7.6.3..3.3.31145667779*.***.*.***.*.*.*.***********************98
+UniRef90_A0A3P5Y6H5/144-186            -------A-AL-D-Q-A--KQAALKEFD-RYG-V-SNY-Y-K-N-LINKAKTVEGIMELQAQI-------
+#=GR UniRef90_A0A3P5Y6H5/144-186    PP .......5.68.9.*.*..********9.99*.9.999.9.9.9.***********9998776.......
+UniRef90_A0A3P5Y6H5/215-261            -TLK-S-I-KL-S-E-A--KEMAIRELD-AQG-V-SDF-Y-K-N-KINNAKTVEGVVALKDLI-------
+#=GR UniRef90_A0A3P5Y6H5/215-261    PP .789.9.*.**.*.*.*..********9.99*.*.***.*.*.*.***************977.......
+UniRef90_UPI0010316302/115-156         ----------L-E-T-A--KKEAIEELK-KAGIT-GEI-F-F-K-QINNAKTVEGVNALKAEI-------
+#=GR UniRef90_UPI0010316302/115-156 PP ..........7.8.9.*..*********.**977.899.*.*.*.***************998.......
+UniRef90_UPI0010316302/189-230         ----------L-K-E-A--KKEAIEELK-KAGIT-GQI-Y-F-D-QINKAKTVEGVEALKAEI-------
+#=GR UniRef90_UPI0010316302/189-230 PP ..........8.9.*.*..*********.***67.899.*.*.*.***************998.......
+UniRef90_UPI000194EC45/3-57            -TYK-L-ILNG-K-T-L--KGETTTEAV-DAA-T-AEK-V-F-K-HYANEHGVHGHWTYDPETKTFTVTE
+#=GR UniRef90_UPI000194EC45/3-57    PP .899.8.5499.*.*.*..*********.***.*.***.*.*.*.***********************98
+UniRef90_UPI0013D91439/144-186         -------A-AL-D-Q-A--KQAALKEFD-RYG-V-SSY-Y-K-N-LINKAKTVEGIMELQAQV-------
+#=GR UniRef90_UPI0013D91439/144-186 PP .......5.68.9.*.*..********9.99*.9.999.9.9.9.***********9998765.......
+UniRef90_UPI0013D91439/215-261         -TLK-S-I-KL-S-E-A--KEMAIRELD-AQG-V-SDF-Y-K-N-KINNAKTVEGVVALKDLI-------
+#=GR UniRef90_UPI0013D91439/215-261 PP .789.9.*.**.*.*.*..********9.99*.*.***.*.*.*.***************977.......
+UniRef90_UPI0011C34280/10-64           -TFK-LII-NG-K-T-L--KGETTTEAV-DAA-T-AEK-V-F-K-QYANDNGLDGEWTYDDATKTFTITE
+#=GR UniRef90_UPI0011C34280/10-64   PP .677.627.99.*.*.*..*********.***.*.***.*.*.*.***********************98
+UniRef90_UPI0001BE642D/19-56           -------------------------EAV-DAA-T-AEK-V-F-K-QYANDLGVDGEWTYDDATKTFTVTE
+#=GR UniRef90_UPI0001BE642D/19-56   PP .........................789.***.*.***.*.*.*.***********************98
+UniRef90_UPI0004620903/3-56            --YK-L-ILNG-K-T-L--KGETTTEAV-DAA-T-AEK-V-F-K-QYANDNGVDGEWTYDDATKTFTVTE
+#=GR UniRef90_UPI0004620903/3-56    PP ..77.6.4499.*.*.*..*********.***.*.***.*.*.*.***********************98
+UniRef90_UPI0001C4E251/3-56            --YK-L-ILNG-K-T-L--KGETTTEAV-DAA-T-AEK-V-F-K-QYANDNGVDGEWTYDDATKTFTVTE
+#=GR UniRef90_UPI0001C4E251/3-56    PP ..77.6.4499.*.*.*..*********.***.*.***.*.*.*.***********************98
+UniRef90_A0A4U9ZRU6/170-210            ----------L-E-A-A--KDAALKELN-QYG-V-SDY-Y-K-K-LIKGAKTIAGVKDLQAQV-------
+#=GR UniRef90_A0A4U9ZRU6/170-210    PP ..........7.8.9.9..*********.***.*.***.*.*.*.***********9887665.......
+UniRef90_A0A4U9ZRU6/239-285            -TIK-S-I-KL-S-E-A--KEMAIRELD-AKG-V-SDF-Y-K-N-KINNAKTVEGVAALKDLI-------
+#=GR UniRef90_A0A4U9ZRU6/239-285    PP .789.9.*.**.*.*.*..********9.99*.*.***.*.*.*.***************977.......
+UniRef90_E1KY24/369-410                ----------L-K-E-A--KEKAVEELK-NNGIT-SEK-Y-I-D-QINKAKTVEGVNALKDEI-------
+#=GR UniRef90_E1KY24/369-410        PP ..........8.*.*.*..*********.98868.9**.*.*.*.*****************8.......
+UniRef90_E1KY24/432-474                ---------AL-K-E-A--KEKAVEELK-NNGIT-SPV-Y-I-D-KINKAKTVEGVNALKEEI-------
+#=GR UniRef90_E1KY24/432-474        PP .........58.*.*.*..*********.99956.788.9.9.*.****************98.......
+UniRef90_UPI0000111875/2-57            TTFK-LII-NG-K-T-L--KGEITIEAV-DAA-E-AEK-I-F-K-QYANDNGIDGEWTYDDATKTFTVTE
+#=GR UniRef90_UPI0000111875/2-57    PP 7899.736.99.*.*.*..*********.***.*.***.*.*.*.***********************98
+UniRef90_A0A233W6U0/385-426            ----------L-K-E-A--KEKAVEELK-NNGIT-SPV-Y-I-D-QINKAKTVEGVNALKDEI-------
+#=GR UniRef90_A0A233W6U0/385-426    PP ..........8.*.*.*..*********.99956.788.9.9.*.*****************8.......
+UniRef90_A0A233W6U0/448-490            ---------AL-K-E-A--KEKAVEELK-NNGIT-SPV-Y-I-D-QINKAKTVEGVNALKDEI-------
+#=GR UniRef90_A0A233W6U0/448-490    PP .........58.*.*.*..*********.99956.788.9.9.*.*****************8.......
+UniRef90_UPI0000D834FD/9-62            --YK-LAL-NG-K-T-L--KGETTTEAV-DAA-T-AEK-V-F-K-QYANDNGVDGEWTYDDATKTFTVTE
+#=GR UniRef90_UPI0000D834FD/9-62    PP ..66.647.99.9.9.*..*********.***.*.***.*.*.*.***********************98
+UniRef90_UPI0000111373/1-56            TTYK-L-ILNG-K-T-L--KGETTTEAV-DAE-T-AER-V-F-K-EYAKKNGVDGEWTYDDATKTFTVTE
+#=GR UniRef90_UPI0000111373/1-56    PP 89**.8.6599.*.*.*..*********.***.*.***.*.*.*.***********************98
+UniRef90_UPI0000358800/3-56            --YK-L-ILNG-K-T-L--KGETTTEAV-DAA-T-AEK-V-F-K-QYANDNGVDGEWTYDDATKTFTVTE
+#=GR UniRef90_UPI0000358800/3-56    PP ..77.6.4499.9.*.*..*********.***.*.***.*.*.*.***********************98
+UniRef90_UPI001356A9CF/133-175         ---------KL-E-F-A--KDDAKKALK-AAG-V-SDF-Y-I-K-KIDGAKTVDSVKALKDSIL------
+#=GR UniRef90_UPI001356A9CF/133-175 PP .........57.8.8.9..*********.***.*.***.*.*.*.****************985......
+UniRef90_UPI001356A9CF/211-252         ---------KL-E-F-A--KDDAKKALK-AAG-V-SDY-Y-I-K-KIDGAKTVEGVKSLKDFI-------
+#=GR UniRef90_UPI001356A9CF/211-252 PP .........57.8.8.9..*********.***.*.***.*.*.*.***************977.......
+UniRef90_UPI00106719B7/3-56            --YK-LAL-NG-K-T-L--KGETTTEAV-DAA-T-AEK-V-F-K-QYANDNGVDGEWTYDDATKTFTVTE
+#=GR UniRef90_UPI00106719B7/3-56    PP ..66.647.99.9.9.*..*********.***.*.***.*.*.*.***********************98
+UniRef90_UPI0001E0708C/3-56            --YK-L-ILNG-K-T-L--KGETTTEAV-DAA-T-AEK-V-F-K-QYANDNGVDGEWTYDDATKTFTVTE
+#=GR UniRef90_UPI0001E0708C/3-56    PP ..77.6.4499.9.*.*..*********.***.*.***.*.*.*.***********************98
+UniRef90_UPI0012494B4B/6-59            --YK-L-ILNG-K-T-L--KGETTTEAV-DAA-T-AEK-V-F-K-QYANDNGVDGEWTYDDATKTYTVTE
+#=GR UniRef90_UPI0012494B4B/6-59    PP ..77.6.4499.*.*.*..*********.***.*.***.*.*.*.***********************98
+UniRef90_UPI0000E9BBA8/3-56            --YK-L-ILNG-K-T-L--KGETTTEAV-DAA-T-AEK-V-F-K-QYANDNGVDGEWTYDDATKTFTVTE
+#=GR UniRef90_UPI0000E9BBA8/3-56    PP ..77.6.4499.9.*.*..*********.***.*.***.*.*.*.***********************98
+UniRef90_UPI0000E8DA2F/8-52            ---------SL-A-Q-A--KEAAIKELK-QYG-I-GDY-Y-I-K-LINNAKTVEGVESLKNEILKA----
+#=GR UniRef90_UPI0000E8DA2F/8-52    PP .........68.9.*.*..*********.***.*.***.*.*.*.*****************9655....
+UniRef90_UPI0018963DE2/3-56            --YK-L-ILNG-K-T-L--KGETTTEAV-DAA-T-AEK-V-F-K-QYANDNGVDGEWTYDDATKTFTVTE
+#=GR UniRef90_UPI0018963DE2/3-56    PP ..77.6.4499.9.*.*..*********.***.*.***.*.*.*.***********************98
+UniRef90_K9EPZ2/42-83                  ----------L-E-T-A--KAEAIEELTADGV-T-SDL-W-F-E-LINKANTIEGVGSLKNDI-------
+#=GR UniRef90_K9EPZ2/42-83          PP ..........6.7.8.9..*******963667.9.99*.*.*.*.***************998.......
+UniRef90_UPI00001D73C1/3-56            --YK-L-ILNG-K-T-L--KGETTTEAV-DAA-T-AEK-V-F-K-QYANDNGVDGEWTYDDATKTFTVTE
+#=GR UniRef90_UPI00001D73C1/3-56    PP ..77.6.4499.9.*.*..*********.***.*.***.*.*.*.***********************98
+UniRef90_UPI0001BE62CB/22-75           --YK-L-ILNG-K-T-L--KGETTTCAV-DAA-T-AEK-V-F-K-QYANDNGVDGEWTYDDATKTFTVTE
+#=GR UniRef90_UPI0001BE62CB/22-75   PP ..77.6.4499.9.9.*..*********.***.*.***.*.*.*.***********************98
+UniRef90_E1KY41/457-499                ---------AL-K-D-A--KEKAIEAIR-KEG-V-KSK-L-YED-LINKAKTIDGVNALRDQI-------
+#=GR UniRef90_E1KY41/457-499        PP .........58.9.*.*..*********.***.9.888.5.516.8999************98.......
+UniRef90_E1KY41/517-558                ----------L-K-N-A--KEDAIKELK-EAG-I-KSQFF-F-N-LINNAKTVEGVESLKNEI-------
+#=GR UniRef90_E1KY41/517-558        PP ..........8.9.*.*..*********.***.8.76526.8.9.****************98.......
+UniRef90_UPI0005502770/43-84           ----------V-K-S-A--QDKAIKDME-IAG-I-TNKYY-F-D-LIKASNSVQGIQNLSTEV-------
+#=GR UniRef90_UPI0005502770/43-84   PP ..........7.9.9.*..*********.***.8.88735.8.9.9*99*********99886.......
+UniRef90_UPI0005502770/149-182         -----A-Q-DL-K-E-A--KEAAIKKIQ-EAG-V-MSEFY-T-D-LINEAKT------------------
+#=GR UniRef90_UPI0005502770/149-182 PP .....5.6.89.*.*.*..*********.***.8.65515.6.7.8877876..................
+UniRef90_A0A3P5YAC1/327-381            -TYK-L-ILNG-K-T-F--KGKTTTKAV-DAA-T-AEK-E-F-K-QYANDNGVDGVWSYDDATKTFTVTE
+#=GR UniRef90_A0A3P5YAC1/327-381    PP .899.8.5499.9.9.9..*********.***.*.***.*.*.*.***********************98
+UniRef90_A0A2W5AJE8/140-182            ---------KL-E-F-A--KDDAKKALK-AAG-V-SDF-Y-I-K-KIDGAKTVDSVKALRDSIL------
+#=GR UniRef90_A0A2W5AJE8/140-182    PP .........57.8.8.9..*********.***.*.***.*.*.*.****************985......
+UniRef90_A0A2W5AJE8/218-259            ---------KL-E-F-A--KDDAKKALK-AAG-V-SDY-Y-I-K-KIDGAKTVEGVKSLKDFI-------
+#=GR UniRef90_A0A2W5AJE8/218-259    PP .........57.8.8.9..*********.***.*.***.*.*.*.***************977.......
+UniRef90_UPI0004DB2207/2-56            -TYK-L-ILNG-K-T-L--KGETTTEAX-DAX-T-AEK-V-F-K-QYAXDNGVXGEWTYDDATKTFTVTE
+#=GR UniRef90_UPI0004DB2207/2-56    PP .899.8.5499.*.*.*..*********.***.*.***.*.*.*.***********************98
+UniRef90_UPI0006775843/3-56            --YK-LHL-HG-K-T-L--KGETTTEAV-DAA-T-AEH-V-F-K-HYANDNGVDGEWTYDDATKTFTVTE
+#=GR UniRef90_UPI0006775843/3-56    PP ..55.535.66.8.8.9..99*******.***.*.***.*.*.*.***********************98
+UniRef90_UPI00001115E7/1-56            TTFK-LII-NG-K-T-L--KGETTTEAV-DAA-T-AEK-V-L-K-QYINDNGIDGEWTYDDATKTWTVTE
+#=GR UniRef90_UPI00001115E7/1-56    PP 7899.736.99.*.*.*..*********.***.*.***.*.*.*.***********************98
+UniRef90_UPI00135AEBA0/138-179         ---------KL-E-F-A--KDDAKKALK-AAG-V-SDF-Y-I-K-KIDGAKTVDSVKALKDSI-------
+#=GR UniRef90_UPI00135AEBA0/138-179 PP .........57.8.8.9..*********.***.*.***.*.*.*.****************98.......
+UniRef90_UPI00135AEBA0/216-257         ---------KL-E-F-A--KDDAKKALK-AAG-V-SDY-Y-I-K-KIDGTKTVEGVKSLKDFI-------
+#=GR UniRef90_UPI00135AEBA0/216-257 PP .........57.8.8.9..*********.***.*.***.*.*.*.***************977.......
+UniRef90_UPI0000112621/11-65           -TYK-L-V-IV-L-NGT--TFTYTTEAV-DAA-T-AEK-V-F-K-QYANDNGVDGEWTYADATKTFTVTE
+#=GR UniRef90_UPI0000112621/11-65   PP .777.7.6.54.4.404..5566789**.***.*.***.*.*.*.***********************98
+UniRef90_UPI0006AB76D3/8-49            ----------L-K-E-A--KEKAIEELK-KAGIT-SDY-Y-F-D-LINKAKTVEGVNALKDEI-------
+#=GR UniRef90_UPI0006AB76D3/8-49    PP ..........8.*.*.*..*********.***67.889.9.*.*.*****************8.......
+UniRef90_UPI0005AECF37/3-56            --YK-LAL-NG-K-T-L--KGETTTEAV-DAA-T-AEK-V-F-K-QYANDNGVDGEWTYDDATKTFTVTE
+#=GR UniRef90_UPI0005AECF37/3-56    PP ..66.647.99.9.9.*..*********.***.*.***.*.*.*.***********************98
+UniRef90_UPI0000112614/24-65           ---------------------VVTTEAV-DAA-T-AEK-V-F-K-QYANDNGVDGEWTYDDAAKTFTVTE
+#=GR UniRef90_UPI0000112614/24-65   PP .....................445799*.***.*.***.*.*.*.***********************98
+UniRef90_UPI000D14BF75/19-56           -------------------------EAV-DHA-E-AEK-F-F-K-QYANDNGVDGEWTYDEATHTFTVTE
+#=GR UniRef90_UPI000D14BF75/19-56   PP .........................789.99*.*.***.*.*.*.***********************98
+UniRef90_I0SHA6/113-154                ---------EL-E-A-A--KDAALKELN-QYG-V-SDY-Y-K-K-LVNSAKTVAGVKKLQAQV-------
+#=GR UniRef90_I0SHA6/113-154        PP .........57.8.9.9..*********.***.*.***.*.*.*.***********9987665.......
+UniRef90_I0SHA6/183-228                -TIK-S-L-EL-S-E-A--KTLALREFD-KYG-V-SDY-Y-K-K-LVNSAKTVAGVKKLQAQ--------
+#=GR UniRef90_I0SHA6/183-228        PP .678.9.9.9*.*.*.*..*********.***.*.***.*.*.*.***********988766........
+UniRef90_UPI001262AC6A/5-60            TTYK-LVI-NG-R-T-L--SGYTTTTAV-DAA-T-AEK-V-F-K-QYAYVHEVDGEWTYDDATKTFTVTE
+#=GR UniRef90_UPI001262AC6A/5-60    PP 7999.835.88.8.8.8..8889999**.***.*.***.*.*.*.***********************98
+UniRef90_UPI00001126B0/3-56            --YKVI-L-NG-K-T-L--KGETTTEAV-DAA-T-FEK-V-V-K-QFFNDNGVDGEWTYDDATKTFTVTE
+#=GR UniRef90_UPI00001126B0/3-56    PP ..6624.6.99.*.*.*..*********.***.*.***.*.*.*.***********************98
+UniRef90_UPI000556C262/399-440         ----------L-N-E-S--KEKALKRLE-KAN-I-TGQ-Y-F-KDLINNAKTIPAVNALTEEI-------
+#=GR UniRef90_UPI000556C262/399-440 PP ..........7.8.9.9..*********.***.*.***.*.*.97899**********99998.......
+UniRef90_UPI000556C262/443-485         -------T-KL-N-E-V--KEKAIKALA-DAD-V-TRK-Y-F-TDLINNSNSIPAIKSLTNS--------
+#=GR UniRef90_UPI000556C262/443-485 PP .......5.68.9.9.*..*********.***.*.***.*.9.6488999999988887665........
+UniRef90_UPI000FF87501/2-56            -TYK-L-ILNG-K-T-L--KGEFTAEAE-DAA-L-AEY-I-F-R-HLAKHQGVDGEWTYDDATKTFTVTE
+#=GR UniRef90_UPI000FF87501/2-56    PP .899.8.5499.*.*.*..*********.***.*.***.*.*.*.***********************98
+UniRef90_UPI000B34A7DB/78-127          -GYR-L-I-NC-Q-T-T--TT----EAV-DAA-T-AAK-V-F-K-QYANDNGIDGEWTYDDATKTFTVTE
+#=GR UniRef90_UPI000B34A7DB/78-127  PP .688.8.8.88.7.6.5..54....568.***.*.***.*.*.*.***********************98
+#=GC PP_cons                           7888.8.7.88.9.9.9..9********.***.9.9**.*.*.*.***************9989****98
+#=GC RF                                xxxx.x.x.xx.x.x.x..xxxxxxxxx.xxx.x.xxx.x.x.x.xxxxxxxxxxxxxxxxxxxxxxxxx
+//

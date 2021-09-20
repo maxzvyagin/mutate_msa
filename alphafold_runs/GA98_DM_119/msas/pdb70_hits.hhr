@@ -1,0 +1,545 @@
+Query         GA98_DM.119 GA98 Deletion Mutation Sequence
+Match_columns 55
+No_of_seqs    66 out of 201
+Neff          3.67496
+Searched_HMMs 80799
+Date          Mon Sep 20 01:40:47 2021
+Command       /opt/miniconda3/envs/alphafold/bin/hhsearch -i /tmp/tmpzhuzvf95/query.a3m -o /tmp/tmpzhuzvf95/output.hhr -maxseq 1000000 -d /lambda_stor/data/hsyoo/AlphaFoldData/pdb70/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 2JWS_A Ga88; evolution, foldin  99.7 3.5E-22 4.3E-27  117.0   0.0   55    1-55      1-56  (56)
+  2 6KMC_A Immunoglobulin G-bindin  99.5 2.2E-18 2.7E-23  101.7   0.0   55    1-55      2-57  (57)
+  3 6NLA_A Immunoglobulin G-bindin  99.5 7.8E-18 9.6E-23   99.1   0.0   54    2-55      2-56  (56)
+  4 3FIL_B Immunoglobulin G-bindin  99.5 1.2E-17 1.4E-22   98.4   0.0   54    2-55      2-56  (56)
+  5 3MP9_A B1 domain of Streptococ  99.4 4.3E-17 5.4E-22   98.1   0.0   55    1-55      9-64  (64)
+  6 6NJF_A Immunoglobulin G-bindin  99.4 5.7E-17   7E-22   97.6   0.0   54    2-55     10-64  (64)
+  7 1PN5_A NACHT-, LRR- and PYD-co  99.4 6.8E-17 8.4E-22  108.1   0.0   54    2-55      2-56  (159)
+  8 6U8C_A Protein G, Antibody lig  99.4 7.8E-17 9.7E-22   97.7   0.0   55    1-55      5-60  (67)
+  9 6U8C_B Protein G, Antibody lig  99.4 7.8E-17 9.7E-22   97.7   0.0   55    1-55      5-60  (67)
+ 10 1IBX_B DNA FRAGMENTATION FACTO  99.4   1E-16 1.3E-21  107.5   0.0   54    2-55      2-56  (145)
+ 11 5HHD_G Vascular endothelial gr  99.4 1.3E-16 1.6E-21   97.1   0.0   55    1-55      8-64  (69)
+ 12 5HHD_H Vascular endothelial gr  99.4 1.3E-16 1.6E-21   97.1   0.0   55    1-55      8-64  (69)
+ 13 2RPV_A Immunoglobulin G-bindin  99.4 1.8E-16 2.2E-21   97.8   0.0   55    1-55     20-75  (75)
+ 14 4GLS_G D- Vascular endothelial  99.4 2.9E-16 3.5E-21   92.6   0.0   54    2-55      1-56  (56)
+ 15 2MBB_A Immunoglobulin G-bindin  99.4   3E-16 3.7E-21  101.5   0.0   54    2-55      2-56  (106)
+ 16 2IGG_A PROTEIN G (SECOND IGG-B  99.3 1.6E-15   2E-20   91.2   0.0   55    1-55      6-61  (64)
+ 17 5LDE_B Immunoglobulin G-bindin  99.2 5.8E-15 7.2E-20  105.4   0.0   54    2-55      2-56  (265)
+ 18 5LDE_A Immunoglobulin G-bindin  99.2 7.7E-15 9.5E-20  104.8   0.0   54    2-55      2-56  (265)
+ 19 1IGD_A PROTEIN G; IMMUNOGLOBUL  99.2 9.4E-15 1.2E-19   87.3   0.0   55    1-55      6-61  (61)
+ 20 2IGD_A PROTEIN G; ATOMIC RESOL  99.2 9.4E-15 1.2E-19   87.3   0.0   55    1-55      6-61  (61)
+ 21 2IGH_A PROTEIN G (THIRD IGG-BI  99.2   1E-14 1.3E-19   87.1   0.0   55    1-55      6-61  (61)
+ 22 3UI3_A Immunoglobulin G-bindin  99.1 7.9E-14 9.7E-19   95.0   0.0   54    2-55      2-56  (160)
+ 23 1PGX_A PROTEIN G TYPE 7 (B2; I  99.0 2.3E-13 2.8E-18   85.4   0.0   55    1-55     14-69  (83)
+ 24 1ZXH_A Immunoglobulin G bindin  99.0 3.9E-13 4.9E-18   79.4   0.0   52    3-54      2-55  (56)
+ 25 2J5Y_B PEPTOSTREPTOCOCCAL ALBU  98.8 4.5E-12 5.6E-17   75.8   0.0   51    1-51      8-59  (61)
+ 26 1GJT_A IMMUNOGLOBULIN G BINDIN  98.5 2.7E-10 3.3E-15   69.2   0.0   50    2-51     14-63  (65)
+ 27 2FS1_A PSD-1; solution structu  98.3 9.9E-10 1.2E-14   64.3   0.0   51    3-53      4-54  (56)
+ 28 6FY1_G CAP228-16H Heavy Chain,  98.0 1.7E-08 2.1E-13   66.1   0.0   39   17-55     72-110 (117)
+ 29 6HKA_A Immunoglobulin G-bindin  97.7 1.7E-07 2.2E-12   58.6   0.0   49    2-50      2-51  (100)
+ 30 3U2S_C PG9 heavy chain, PG9 li  97.5 4.7E-07 5.8E-12   59.6   0.0   39   17-55     79-117 (124)
+ 31 2CWB_A chimera of Immunoglobul  96.1 0.00025 3.1E-09   45.2   0.0   51    2-52      8-59  (108)
+ 32 2KBT_A Proto-oncogene vav; sor  66.8     4.3 5.3E-05   25.3   0.0   33   23-55    100-132 (142)
+ 33 6RSS_A NEDD4-like E3 ubiquitin  62.3       6 7.4E-05   24.5   0.0   41    3-43      6-47  (109)
+ 34 2K88_A Vacuolar proton pump su  30.0      45 0.00055   20.0   0.0   22    3-24     28-49  (60)
+ 35 6U42_5A Tubulin beta, Tubulin   23.1      72 0.00089   26.1   0.0   27    7-33    469-495 (501)
+ 36 6U42_5C Tubulin beta, Tubulin   23.1      72 0.00089   26.1   0.0   27    7-33    469-495 (501)
+
+No 1
+>2JWS_A Ga88; evolution, folding, protein design, DE; NMR {artificial gene}
+Probab=99.74  E-value=3.5e-22  Score=117.01  Aligned_cols=55  Identities=95%  Similarity=1.212  Sum_probs=53.7  Template_Neff=3.600
+
+Q GA98_DM.119       1 TTYK-ILNLKQAKEEAIKELVDAGTAEKYFKLIANAKTVEGVWTLKDEIKTFTVTE   55 (55)
+Q Consensus         1 ~T~K-~~~l~~aK~~Aikel~~Ag~se~yfklin~aktVeGv~al~d~i~~~~~~~   55 (55)
+                      |||| ++++++++++++++++++|++++||+||+|+|||+|||+|+|++++|+|||
+T Consensus         1 ~~~~~~~~~~~~~e~~~~~l~~ag~ae~yf~~~~nantVdGv~al~d~~~~f~~te   56 (56)
+T 2JWS_A            1 TTYKLILNLKQAKEEAIKELVDAGIAEKYIKLIANAKTVEGVWTLKDEILTFTVTE   56 (56)
+T ss_dssp             CCSCCCCCHHHHHHHHHHHHHHHTCCHHHHHHHHTCSCHHHHHHHHHHHHHTTCCC
+T ss_pred             CcchhhhhhHhHhHHHHHHHHHHHHHHHHHHHHHhccCcchHHHHHHHHhhhhccC
+Confidence            6899 899999999999999999999999999999999999999999999999997
+
+
+No 2
+>6KMC_A Immunoglobulin G-binding protein G B1; Streptococcal protein G B1 Domain; 1.84A {Streptococcus sp. 'group G'}
+Probab=99.54  E-value=2.2e-18  Score=101.70  Aligned_cols=55  Identities=58%  Similarity=0.704  Sum_probs=53.4  Template_Neff=2.800
+
+Q GA98_DM.119       1 TTYK-ILNLKQAKEEAIKELVDAGTAEKYFKLIANAKTVEGVWTLKDEIKTFTVTE   55 (55)
+Q Consensus         1 ~T~K-~~~l~~aK~~Aikel~~Ag~se~yfklin~aktVeGv~al~d~i~~~~~~~   55 (55)
+                      |+|| +++++++|++...+.++|++|+++|++|.|+|||+|||+|+|++++|+|+|
+T Consensus         2 ~~~~~~l~g~t~kgettt~avda~~A~~~f~~y~nantVeGv~al~dat~~f~~te   57 (57)
+T 6KMC_A            2 DTYKLILNGKTLKGETTTEAVDAAHAEKVFKHYANEHGVHGHWTYDPETKTFTVTE   57 (57)
+T ss_dssp             EEEEEEEECSSCEEEEEEEESSHHHHHHHHHHHHHHTTCCCEEEEEGGGTEEEEEC
+T ss_pred             chhhhhhcCCCCCCCchhHHHHHHHHHHHHHHHcccCCCCceeecccccccccccC
+Confidence            6899 899999999999999999999999999999999999999999999999987
+
+
+No 3
+>6NLA_A Immunoglobulin G-binding protein G; Metal-mediated dimer, B1 Domain of; 1.34A {Streptococcus}
+Probab=99.50  E-value=7.8e-18  Score=99.11  Aligned_cols=54  Identities=59%  Similarity=0.671  Sum_probs=52.6  Template_Neff=2.800
+
+Q GA98_DM.119       2 TYK-ILNLKQAKEEAIKELVDAGTAEKYFKLIANAKTVEGVWTLKDEIKTFTVTE   55 (55)
+Q Consensus         2 T~K-~~~l~~aK~~Aikel~~Ag~se~yfklin~aktVeGv~al~d~i~~~~~~~   55 (55)
+                      +|| +++++++|++...+.++|++|+++|++|.|+|||||||+|+|++++|+++|
+T Consensus         2 ~y~l~l~g~t~kge~t~kavda~tA~~~f~ky~nantVeGv~al~dat~~f~~~e   56 (56)
+T 6NLA_A            2 TYKLILNGKTHKGVLTIEAVDAATAEKHFKQHANDLGVDGEWTYDDATKTFTVTE   56 (56)
+T ss_dssp             EEEEEEECSSCEEEEEEECSSHHHHHHHHHHHHHHTTCCCEEEEEGGGTEEEEEC
+T ss_pred             ceeeeecCccCCcchhHHHHHHHHHHHHHHHhcccCCCCCeeechhhhhcccccC
+Confidence            789 899999999999999999999999999999999999999999999999987
+
+
+No 4
+>3FIL_B Immunoglobulin G-binding protein G; dimerization, beta sheet, alpha helix; HET: FME; 0.88A {Streptococcus sp. 'group G'}
+Probab=99.49  E-value=1.2e-17  Score=98.39  Aligned_cols=54  Identities=57%  Similarity=0.669  Sum_probs=52.5  Template_Neff=2.700
+
+Q GA98_DM.119       2 TYK-ILNLKQAKEEAIKELVDAGTAEKYFKLIANAKTVEGVWTLKDEIKTFTVTE   55 (55)
+Q Consensus         2 T~K-~~~l~~aK~~Aikel~~Ag~se~yfklin~aktVeGv~al~d~i~~~~~~~   55 (55)
+                      +|| +++++++|++.+.+.++|++|+++|++|.|+|||||||+|+|++++|+++|
+T Consensus         2 ~~~l~l~g~t~kge~t~~avda~~A~~~f~ky~nantVeGv~al~dat~~f~~~e   56 (56)
+T 3FIL_B            2 QYKLILNGKTLKGVLTIEAVDAATAEKVFKQYANDLGVDGEWTYDDATKTFTVTE   56 (56)
+T ss_dssp             EEEEEEECSSCEEEEEEECSSHHHHHHHHHHHHHHHTCCSEEEEETTTTEEEEEC
+T ss_pred             ceeeeecCccCCcchHHHHHHHHHHHHHHHHHcccCCCCCeeehhhhhhcccccC
+Confidence            689 899999999999999999999999999999999999999999999999987
+
+
+No 5
+>3MP9_A B1 domain of Streptococcal protein; PROTEIN G, IGG-BINDING PROTEIN, PROTEIN; 1.2A {Streptococcus sp. 'group G'}
+Probab=99.44  E-value=4.3e-17  Score=98.08  Aligned_cols=55  Identities=60%  Similarity=0.747  Sum_probs=53.2  Template_Neff=2.400
+
+Q GA98_DM.119       1 TTYK-ILNLKQAKEEAIKELVDAGTAEKYFKLIANAKTVEGVWTLKDEIKTFTVTE   55 (55)
+Q Consensus         1 ~T~K-~~~l~~aK~~Aikel~~Ag~se~yfklin~aktVeGv~al~d~i~~~~~~~   55 (55)
+                      +||| +++++++|++...+.+++++|+++|++|.|+|||+|||+|+|++++|+++|
+T Consensus         9 ~~~~~~~~~~t~~~e~t~kavda~~A~~~f~ky~nantVeGV~al~dat~~fl~te   64 (64)
+T 3MP9_A            9 DTYKLILNGKTLKGETTTEAVDAATAEKVFKQYANDNGVDGEWTYDDATKTFTVTE   64 (64)
+T ss_dssp             EEEEEEEECSSCEEEEEEEESSHHHHHHHHHHHHHHTTCCCEEEEETTTTEEEEEC
+T ss_pred             hhhHHHhcCCCCCCchHHHHHHHHHHHHHHHHHccCCCCcccchhhhhhhcccccC
+Confidence            5899 899999999999999999999999999999999999999999999999987
+
+
+No 6
+>6NJF_A Immunoglobulin G-binding protein G; dynamics, computational design, conformational exchange; NMR {Streptococcus sp. group G}
+Probab=99.43  E-value=5.7e-17  Score=97.57  Aligned_cols=54  Identities=54%  Similarity=0.725  Sum_probs=52.3  Template_Neff=2.400
+
+Q GA98_DM.119       2 TYK-ILNLKQAKEEAIKELVDAGTAEKYFKLIANAKTVEGVWTLKDEIKTFTVTE   55 (55)
+Q Consensus         2 T~K-~~~l~~aK~~Aikel~~Ag~se~yfklin~aktVeGv~al~d~i~~~~~~~   55 (55)
+                      ||| +++.+++|++...+.+++++|+++|++|.|+|||+|||+|+|++++|+++|
+T Consensus        10 ~~~~~i~~~t~~~e~t~kavda~~Ae~~f~ky~nantVeGV~al~Dat~~fl~te   64 (64)
+T 6NJF_A           10 TFKLIINGKTLKGETTTEAVDAATAEKVFKQYANDNGLDGEWTYDDATKTFTITE   64 (64)
+T ss_dssp             EEEEEEESSSCCEEEEEECSSHHHHHHHHHHHHHHHCCCCEEEEETTTTEEEEEC
+T ss_pred             eEEEEEcCcCCCCchhHHHHHHHHHHHHHHHHcccCCcccceecchhhhcccccC
+Confidence            788 899999999999999999999999999999999999999999999999987
+
+
+No 7
+>1PN5_A NACHT-, LRR- and PYD-containing protein; 5 ALPHA-HELIX BUNDLE, APOPTOSIS; NMR {Homo sapiens} SCOP: a.77.1.5
+Probab=99.43  E-value=6.8e-17  Score=108.14  Aligned_cols=54  Identities=59%  Similarity=0.746  Sum_probs=0.0  Template_Neff=5.700
+
+Q GA98_DM.119       2 TYK-ILNLKQAKEEAIKELVDAGTAEKYFKLIANAKTVEGVWTLKDEIKTFTVTE   55 (55)
+Q Consensus         2 T~K-~~~l~~aK~~Aikel~~Ag~se~yfklin~aktVeGv~al~d~i~~~~~~~   55 (55)
+                      ||| ++|+++++++.+.+++++.+|+++|++|.|+|+|||+|+|+|+++||||||
+T Consensus         2 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   56 (159)
+T 1PN5_A            2 QYKLILNGKTLKGETTTEAVDAATAEKVFKQYANDNGVDGEWTYDDATKTFTVTE   56 (159)
+T ss_dssp             -------------------------------------------------------
+T ss_pred             ceEEEEcCeeccceecchhhcHHHHHHHHHHHhhcCCCcceEEeeCCceEEEecC
+Confidence            899 899999999999999999999999999999999999999999999999996
+
+
+No 8
+>6U8C_A Protein G, Antibody light chain; engineered Fab, protein G, high; 2.61A {Streptococcus sp. 'group G'}
+Probab=99.42  E-value=7.8e-17  Score=97.67  Aligned_cols=55  Identities=49%  Similarity=0.643  Sum_probs=53.1  Template_Neff=2.600
+
+Q GA98_DM.119       1 TTYK-ILNLKQAKEEAIKELVDAGTAEKYFKLIANAKTVEGVWTLKDEIKTFTVTE   55 (55)
+Q Consensus         1 ~T~K-~~~l~~aK~~Aikel~~Ag~se~yfklin~aktVeGv~al~d~i~~~~~~~   55 (55)
+                      |+|| +++.++++++...+.+++++|+++|++|.++|+|+|||+|+|++++|+++|
+T Consensus         5 t~~~~~i~~~t~~~e~t~kavda~~a~~~f~ky~~antVeGv~al~dat~~f~~te   60 (67)
+T 6U8C_A            5 TTYKLVINGRTLSGYTTTTAVDAATAEKVFKQYAYVHEVDGEWTYDDATKTFTVTE   60 (67)
+T ss_dssp             EEEEEEEECSSEEEEEEEEESSHHHHHHHHHHHHHHHTCCCEEEEETTTTEEEEEC
+T ss_pred             ccceEeeCCccCCCccchhHhHHHHHHHHHHHhcCCCcccceeecccccccccccC
+Confidence            5799 899999999999999999999999999999999999999999999999987
+
+
+No 9
+>6U8C_B Protein G, Antibody light chain; engineered Fab, protein G, high; 2.61A {Streptococcus sp. 'group G'}
+Probab=99.42  E-value=7.8e-17  Score=97.67  Aligned_cols=55  Identities=49%  Similarity=0.643  Sum_probs=53.1  Template_Neff=2.600
+
+Q GA98_DM.119       1 TTYK-ILNLKQAKEEAIKELVDAGTAEKYFKLIANAKTVEGVWTLKDEIKTFTVTE   55 (55)
+Q Consensus         1 ~T~K-~~~l~~aK~~Aikel~~Ag~se~yfklin~aktVeGv~al~d~i~~~~~~~   55 (55)
+                      |+|| +++.++++++...+.+++++|+++|++|.++|+|+|||+|+|++++|+++|
+T Consensus         5 t~~~~~i~~~t~~~e~t~kavda~~a~~~f~ky~~antVeGv~al~dat~~f~~te   60 (67)
+T 6U8C_B            5 TTYKLVINGRTLSGYTTTTAVDAATAEKVFKQYAYVHEVDGEWTYDDATKTFTVTE   60 (67)
+T ss_dssp             EEEEEEEECSSEEEEEEEEESSTTHHHHHHHHHHHHHTCCCEEEEETTTTEEEEEC
+T ss_pred             ccceEeeCCccCCCccchhHhHHHHHHHHHHHhcCCCcccceeecccccccccccC
+Confidence            5799 899999999999999999999999999999999999999999999999987
+
+
+No 10
+>1IBX_B DNA FRAGMENTATION FACTOR 40/DNA FRAGMENTATION; DFF40, DFF45, protein-protein complex, CIDE; NMR {Homo sapiens} SCOP: d.15.2.1
+Probab=99.41  E-value=1e-16  Score=107.54  Aligned_cols=54  Identities=59%  Similarity=0.746  Sum_probs=0.0  Template_Neff=4.400
+
+Q GA98_DM.119       2 TYK-ILNLKQAKEEAIKELVDAGTAEKYFKLIANAKTVEGVWTLKDEIKTFTVTE   55 (55)
+Q Consensus         2 T~K-~~~l~~aK~~Aikel~~Ag~se~yfklin~aktVeGv~al~d~i~~~~~~~   55 (55)
+                      +|| +++++++|++...++++|++|++||++|+|+|||+|||+|+|++++|++||
+T Consensus         2 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~v~g~~~~~~~~~~~~~te   56 (145)
+T 1IBX_B            2 QYKLILNGKTLKGETTTEAVDAATAEKVFKQYANDNGVDGEWTYDDATKTFTVTE   56 (145)
+T ss_dssp             -------------------------------------------------------
+T ss_pred             ceeEeeCCcccccchhHHHHHHHHHHHHHHHHcccCCCCCceeccccccceeecC
+Confidence            799 789999999999999999999999999999999999999999999999987
+
+
+No 11
+>5HHD_G Vascular endothelial growth factor A; HETEROCHIRAL PROTEIN-PROTEIN COMPLEX, D-PROTEIN ANTAGONIST; HET: DSG, DLY, DSN, DAL, DHI, DCY, DGL, DAS, DPR, DPN, DTY, DGN, DAR, MED, DTR, DTH, DLE, DIL, DVA, GOL; 2.1A {N/A}
+Probab=99.40  E-value=1.3e-16  Score=97.15  Aligned_cols=55  Identities=45%  Similarity=0.518  Sum_probs=53.4  Template_Neff=2.500
+
+Q GA98_DM.119       1 TTYK-ILNLKQAKEEAIKELVDAGTAEKYFKLIANAKTVE-GVWTLKDEIKTFTVTE   55 (55)
+Q Consensus         1 ~T~K-~~~l~~aK~~Aikel~~Ag~se~yfklin~aktVe-Gv~al~d~i~~~~~~~   55 (55)
+                      ++|| +++++++|++.+.+.+++++|+++|++|.++|+|+ |||+|+|++++|+|||
+T Consensus         8 ~~y~l~l~g~T~kgetttkavda~~A~~~f~kya~antVe~Gv~aldDatktftvte   64 (69)
+T 5HHD_G            8 STYKLILNGKTLKGETTTEAVDVFDAFDVFFVYAASNFSDFDDWTYDDATKTFTVTE   64 (69)
+T ss_dssp             EEEEEEEECSSCEEEEEEEESSHHHHHHHHHHHHHTTCSEEEEEEEETTTTEEEEEE
+T ss_pred             cchhhhhcCCCCCCCccchhhhHhHhhHHHHhhcccCCcccccchhhhhhhhhcccc
+Confidence            5899 89999999999999999999999999999999999 9999999999999987
+
+
+No 12
+>5HHD_H Vascular endothelial growth factor A; HETEROCHIRAL PROTEIN-PROTEIN COMPLEX, D-PROTEIN ANTAGONIST; HET: DTY, DCY, DAS, DAR, DHI, DIL, DPN, DTR, DGN, DSG, GOL, DLE, DPR, DSN, DAL, DVA, DTH, MED, DLY, DGL; 2.1A {N/A}
+Probab=99.40  E-value=1.3e-16  Score=97.15  Aligned_cols=55  Identities=45%  Similarity=0.518  Sum_probs=53.4  Template_Neff=2.500
+
+Q GA98_DM.119       1 TTYK-ILNLKQAKEEAIKELVDAGTAEKYFKLIANAKTVE-GVWTLKDEIKTFTVTE   55 (55)
+Q Consensus         1 ~T~K-~~~l~~aK~~Aikel~~Ag~se~yfklin~aktVe-Gv~al~d~i~~~~~~~   55 (55)
+                      ++|| +++++++|++.+.+.+++++|+++|++|.++|+|+ |||+|+|++++|+|||
+T Consensus         8 ~~y~l~l~g~T~kgetttkavda~~A~~~f~kya~antVe~Gv~aldDatktftvte   64 (69)
+T 5HHD_H            8 STYKLILNGKTLKGETTTEAVDVFDAFDVFFVYAASNFSDFDDWTYDDATKTFTVTE   64 (69)
+T ss_dssp             EEEEEEEECSSCEEEEEEEESSHHHHHHHHHHHHHTTCSEEEEEEEETTTTEEEEEE
+T ss_pred             hhhHHHhcCCCCCCchhhHHHHHHHHHHHHHHHcccCcccccchhHHhhhccccccc
+Confidence            5899 89999999999999999999999999999999999 9999999999999987
+
+
+No 13
+>2RPV_A Immunoglobulin G-binding protein G; lanthanide binding peptide, GB1, LBT; HET: LA; NMR {Streptococcus sp. group G}
+Probab=99.39  E-value=1.8e-16  Score=97.80  Aligned_cols=55  Identities=56%  Similarity=0.688  Sum_probs=53.2  Template_Neff=2.500
+
+Q GA98_DM.119       1 TTYK-ILNLKQAKEEAIKELVDAGTAEKYFKLIANAKTVEGVWTLKDEIKTFTVTE   55 (55)
+Q Consensus         1 ~T~K-~~~l~~aK~~Aikel~~Ag~se~yfklin~aktVeGv~al~d~i~~~~~~~   55 (55)
+                      ++|| +++++++|++.+.+.+++++|++||++|.|+|||+|||+|+|++++|+++|
+T Consensus        20 ~tyklvl~~~t~k~E~ttkavda~~A~~~F~ky~nantVeGv~al~dat~tf~~te   75 (75)
+T 2RPV_A           20 MEYKLILNGKTLKGETTTCAVDAATAEKVFKQYANDNGVDGEWTYDDATKTFTVTE   75 (75)
+T ss_dssp             EEEEEEEECSSCEEEEEEEESSHHHHHHHHHHHHHHHTCCSEEEEETTTTEEEEEC
+T ss_pred             ceeEEeeCCcCCCCchhhhhhhHHHHHHHHHHHcccCCCCCeeecchhhccccccC
+Confidence            5899 899999999999999999999999999999999999999999999999987
+
+
+No 14
+>4GLS_G D- Vascular endothelial growth factor-A; heterochiral protein-protein complex, D-protein antagonist; HET: DLY, DLE, DTR, DGL, DTH, DVA, DPN, DHI, MED, DIL, DAL, DGN, DPR, DTY, DAR, DCY, DSG, DAS, DSN; 1.6A {N/A}
+Probab=99.37  E-value=2.9e-16  Score=92.56  Aligned_cols=54  Identities=46%  Similarity=0.518  Sum_probs=52.3  Template_Neff=2.700
+
+Q GA98_DM.119       2 TYK-ILNLKQAKEEAIKELVDAGTAEKYFKLIANAKTVE-GVWTLKDEIKTFTVTE   55 (55)
+Q Consensus         2 T~K-~~~l~~aK~~Aikel~~Ag~se~yfklin~aktVe-Gv~al~d~i~~~~~~~   55 (55)
+                      +|| +++++++|++...+.+++++|+++|++|.++|+|+ |||+|+|++++|+|+|
+T Consensus         1 ~~~~~l~~~t~~~e~t~kavda~~A~~~f~~y~~antVe~gv~al~datktf~vte   56 (56)
+T 4GLS_G            1 TYKLILNGKTLKGETTTEAVDVFDAFDVFFVYAASNFSDFDDWTYDDATKTFTVTE   56 (56)
+T ss_pred             CcceeecCccCCCCccchhHhHHHhHHHHHhhccCCCcccccchhchhhhcccccC
+Confidence            588 78999999999999999999999999999999999 9999999999999997
+
+
+No 15
+>2MBB_A Immunoglobulin G-binding protein G/DNA polymerase; Polymerase iota, UBM, UBM1, ubiquitin; NMR {Streptococcus sp. 'group G', Homo sapiens}
+Probab=99.37  E-value=3e-16  Score=101.46  Aligned_cols=54  Identities=59%  Similarity=0.746  Sum_probs=0.0  Template_Neff=3.700
+
+Q GA98_DM.119       2 TYK-ILNLKQAKEEAIKELVDAGTAEKYFKLIANAKTVEGVWTLKDEIKTFTVTE   55 (55)
+Q Consensus         2 T~K-~~~l~~aK~~Aikel~~Ag~se~yfklin~aktVeGv~al~d~i~~~~~~~   55 (55)
+                      ||| ++|++++|++.+.+.+++++|++||++|.|+|||+|||+|+|++++|++||
+T Consensus         2 ~~~~~~~~~t~~~e~t~~~~~a~~a~~~f~~y~n~ntV~gv~~l~daTt~FtkTE   56 (106)
+T 2MBB_A            2 QYKLILNGKTLKGETTTEAVDAATAEKVFKQYANDNGVDGEWTYDDATKTFTVTE   56 (106)
+T ss_dssp             -------------------------------------------------------
+T ss_pred             ceeEEecCcCCCCchHHHHHHHHHHHHHHHHHcccCCCCCeeecchhcccccccc
+Confidence            799 899999999999999999999999999999999999999999999999986
+
+
+No 16
+>2IGG_A PROTEIN G (SECOND IGG-BINDING DOMAIN); IMMUNOGLOBULIN-BINDING PROTEIN; NMR {Streptococcus sp. GX7805} SCOP: d.15.7.1
+Probab=99.30  E-value=1.6e-15  Score=91.19  Aligned_cols=55  Identities=58%  Similarity=0.750  Sum_probs=52.9  Template_Neff=3.200
+
+Q GA98_DM.119       1 TTYK-ILNLKQAKEEAIKELVDAGTAEKYFKLIANAKTVEGVWTLKDEIKTFTVTE   55 (55)
+Q Consensus         1 ~T~K-~~~l~~aK~~Aikel~~Ag~se~yfklin~aktVeGv~al~d~i~~~~~~~   55 (55)
+                      +||| ++|.+.++++.+.++.++++|++||++|.|+|+|||||+|+|++++|+++|
+T Consensus         6 ~ty~l~~n~~~~~gett~ka~~a~~A~~yF~~~~n~ntVegvwaydd~t~tft~~e   61 (64)
+T 2IGG_A            6 TTYKLVINGKTLKGETTTEAVDAATAEKVFKQYANDNGVDGEWTYDDATKTFTVTE   61 (64)
+T ss_dssp             EEEEEEEESSSCCCEEEEEESSHHHHHHHHHHHHHHHTCCSEEEEETTTTEEEEEC
+T ss_pred             ceeeEEECCccCCCcccchhcCHHHHHHHHHHHhhcCCCCCceecccccccccccc
+Confidence            5899 889999999999999999999999999999999999999999999999986
+
+
+No 17
+>5LDE_B Immunoglobulin G-binding protein G,Viral FLICE; vFLIP, NF-kB, Nemo, viral protein; HET: 6ZS; 3.38A {Streptococcus sp. group G}
+Probab=99.24  E-value=5.8e-15  Score=105.38  Aligned_cols=54  Identities=59%  Similarity=0.746  Sum_probs=52.5  Template_Neff=5.600
+
+Q GA98_DM.119       2 TYK-ILNLKQAKEEAIKELVDAGTAEKYFKLIANAKTVEGVWTLKDEIKTFTVTE   55 (55)
+Q Consensus         2 T~K-~~~l~~aK~~Aikel~~Ag~se~yfklin~aktVeGv~al~d~i~~~~~~~   55 (55)
+                      ||| +++++++|++.+.+.++|++|+++|++|+|+|||+|||+|+|++++|+|||
+T Consensus         2 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~v~~~~~~~~~~~~~~~~~   56 (265)
+T 5LDE_B            2 QYKLILNGKTLKGETTTEAVDAATAEKVFKQYANDNGVDGEWTYDDATKTFTVTE   56 (265)
+T ss_pred             ccceeecCCCCCCcHHHHHHHHHHHHHHHHHHccCCCCCchhhhhhhhhcceecC
+Confidence            799 899999999999999999999999999999999999999999999999986
+
+
+No 18
+>5LDE_A Immunoglobulin G-binding protein G,Viral FLICE; vFLIP, NF-kB, Nemo, viral protein; HET: 6ZS; 3.38A {Streptococcus sp. group G}
+Probab=99.22  E-value=7.7e-15  Score=104.76  Aligned_cols=54  Identities=59%  Similarity=0.746  Sum_probs=40.8  Template_Neff=5.600
+
+Q GA98_DM.119       2 TYK-ILNLKQAKEEAIKELVDAGTAEKYFKLIANAKTVEGVWTLKDEIKTFTVTE   55 (55)
+Q Consensus         2 T~K-~~~l~~aK~~Aikel~~Ag~se~yfklin~aktVeGv~al~d~i~~~~~~~   55 (55)
+                      ||| +++++++|++.+.+.++|++|+++|++|+|+|||+|||+|+|++++|+|||
+T Consensus         2 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~v~~~~~~~~~~~~~~~~~   56 (265)
+T 5LDE_A            2 QYKLILNGKTLKGETTTEAVDAATAEKVFKQYANDNGVDGEWTYDDATKTFTVTE   56 (265)
+T ss_dssp             CCEEECC-----------CCSHHHHHHHHHHHHHHHTEECCCEEETTTTEEEC-C
+T ss_pred             ccceeecCCCCCCchHHHHHHHHHHHHHHHHHcccCCCCCcchhhhhhccceeec
+Confidence            799 899999999999999999999999999999999999999999999999986
+
+
+No 19
+>1IGD_A PROTEIN G; IMMUNOGLOBULIN BINDING PROTEIN; 1.1A {Streptococcus sp. G148} SCOP: d.15.7.1
+Probab=99.21  E-value=9.4e-15  Score=87.29  Aligned_cols=55  Identities=58%  Similarity=0.753  Sum_probs=52.7  Template_Neff=3.200
+
+Q GA98_DM.119       1 TTYK-ILNLKQAKEEAIKELVDAGTAEKYFKLIANAKTVEGVWTLKDEIKTFTVTE   55 (55)
+Q Consensus         1 ~T~K-~~~l~~aK~~Aikel~~Ag~se~yfklin~aktVeGv~al~d~i~~~~~~~   55 (55)
+                      |+|+ +++.+.++++.+.++.++++|++||++|.|+|+|||||+|+|++++|+++|
+T Consensus         6 ~~y~~~~~~~~~~g~tt~ka~~a~~A~~yF~~~~n~n~vdgvwaydd~tktft~~e   61 (61)
+T 1IGD_A            6 TTYKLVINGKTLKGETTTKAVDAETAEKAFKQYANDNGVDGVWTYDDATKTFTVTE   61 (61)
+T ss_dssp             EEEEEEEECSSCEEEEEEEESSHHHHHHHHHHHHHHTTCCCEEEEETTTTEEEEEC
+T ss_pred             ceeeEEeCCccCCCceeeeccCHHHHHHHHHHHhhcCCCCcceecccccccccccC
+Confidence            5789 789999999999999999999999999999999999999999999999986
+
+
+No 20
+>2IGD_A PROTEIN G; ATOMIC RESOLUTION, PROTEIN G, IMMUNOGLOBULIN-BINDING; 1.1A {Streptococcus sp.} SCOP: d.15.7.1
+Probab=99.21  E-value=9.4e-15  Score=87.29  Aligned_cols=55  Identities=58%  Similarity=0.753  Sum_probs=52.7  Template_Neff=3.200
+
+Q GA98_DM.119       1 TTYK-ILNLKQAKEEAIKELVDAGTAEKYFKLIANAKTVEGVWTLKDEIKTFTVTE   55 (55)
+Q Consensus         1 ~T~K-~~~l~~aK~~Aikel~~Ag~se~yfklin~aktVeGv~al~d~i~~~~~~~   55 (55)
+                      |+|+ +++.+.++++.+.++.++++|++||++|.|+|+|||||+|+|++++|+++|
+T Consensus         6 ~~y~~~~~~~~~~g~tt~ka~~a~~A~~yF~~~~n~n~vdgvwaydd~tktft~~e   61 (61)
+T 2IGD_A            6 TTYKLVINGKTLKGETTTKAVDAETAEKAFKQYANDNGVDGVWTYDDATKTFTVTE   61 (61)
+T ss_dssp             EEEEEEEECSSCEEEEEEEESSHHHHHHHHHHHHHHTTCCCEEEEETTTTEEEEEC
+T ss_pred             ceeeEEeCCccCCCceeeeccCHHHHHHHHHHHhhcCCCCcceecccccccccccC
+Confidence            5789 789999999999999999999999999999999999999999999999986
+
+
+No 21
+>2IGH_A PROTEIN G (THIRD IGG-BINDING DOMAIN); IMMUNOGLOBULIN-BINDING PROTEIN; NMR {Streptococcus sp. GX7805} SCOP: d.15.7.1
+Probab=99.21  E-value=1e-14  Score=87.15  Aligned_cols=55  Identities=58%  Similarity=0.753  Sum_probs=52.7  Template_Neff=3.200
+
+Q GA98_DM.119       1 TTYK-ILNLKQAKEEAIKELVDAGTAEKYFKLIANAKTVEGVWTLKDEIKTFTVTE   55 (55)
+Q Consensus         1 ~T~K-~~~l~~aK~~Aikel~~Ag~se~yfklin~aktVeGv~al~d~i~~~~~~~   55 (55)
+                      |+|+ +++.+.++++.+.++.++++|++||++|.|+|+|||||+|+|++++|+++|
+T Consensus         6 ~~y~~~~~~~~~~g~tt~ka~~a~~A~~yF~~~~n~n~vdgvwaydd~tktft~~e   61 (61)
+T 2IGH_A            6 TTYKLVINGKTLKGETTTKAVDAETAEKAFKQYANDNGVDGVWTYDDATKTFTVTE   61 (61)
+T ss_dssp             EEEEEEECCSSCCEEEEEEESSHHHHHHHHHHHHHHHTCCSEEEECSSSSEEEEEC
+T ss_pred             ceeeEeeCCccCCCceeeeccCHHHHHHHHHHHhhcCCCCcceecccccccccccC
+Confidence            5789 789999999999999999999999999999999999999999999999986
+
+
+No 22
+>3UI3_A Immunoglobulin G-binding protein G, Virulence-associated; ferrodoxin-like fold, virulence associated protein; 2.8A {Streptococcus, Helicobacter pylori}
+Probab=99.10  E-value=7.9e-14  Score=95.04  Aligned_cols=54  Identities=59%  Similarity=0.746  Sum_probs=44.0  Template_Neff=4.300
+
+Q GA98_DM.119       2 TYK-ILNLKQAKEEAIKELVDAGTAEKYFKLIANAKTVEGVWTLKDEIKTFTVTE   55 (55)
+Q Consensus         2 T~K-~~~l~~aK~~Aikel~~Ag~se~yfklin~aktVeGv~al~d~i~~~~~~~   55 (55)
+                      ||| ++++++.|+++..+++||++|++.|++++|++||||+|+|++++++|+|||
+T Consensus         2 ~~~~~~~~~~~~~~~~~~~~~~~~a~~~~~~~~n~~~v~~~~~~~~~~~~~~~~e   56 (160)
+T 3UI3_A            2 QYKLILNGKTLKGETTTEAVDAATAEKVFKQYANDNGVDGEWTYDDATKTFTVTE   56 (160)
+T ss_dssp             -CEEEC------CCCCCCCSSHHHHHHHHHHHHHTC--CEEEEEEGGGTEEEEEE
+T ss_pred             ceEEEEcCeeccccchhHHhHHHHHHHHHHHHhhcCCCCCceEeecCCCceeecc
+Confidence            799 899999999999999999999999999999999999999999999999986
+
+
+No 23
+>1PGX_A PROTEIN G TYPE 7 (B2; IMMUNOGLOBULIN BINDING PROTEIN; 1.66A {Streptococcus} SCOP: d.15.7.1
+Probab=99.03  E-value=2.3e-13  Score=85.39  Aligned_cols=55  Identities=58%  Similarity=0.753  Sum_probs=52.1  Template_Neff=3.100
+
+Q GA98_DM.119       1 TTYK-ILNLKQAKEEAIKELVDAGTAEKYFKLIANAKTVEGVWTLKDEIKTFTVTE   55 (55)
+Q Consensus         1 ~T~K-~~~l~~aK~~Aikel~~Ag~se~yfklin~aktVeGv~al~d~i~~~~~~~   55 (55)
+                      |+|+ +++.+.++++.+.++.+++.|++||++|.|+|+|+|+|+|++++++||++|
+T Consensus        14 t~y~~~~nt~~~~g~ttvKA~sa~~A~~yF~~~~n~Ngvdg~wsyddatktFta~e   69 (83)
+T 1PGX_A           14 TTYKLVINGKTLKGETTTKAVDAETAEKAFKQYANDNGVDGVWTYDDATKTFTVTE   69 (83)
+T ss_dssp             EEEEEEEECSSCEEEEEEEESSHHHHHHHHHHHHHHTTCCEEEEEETTTTEEEEEE
+T ss_pred             ceeEEeecccCCCCceeeecCCHHHHHHHHHHHhhhcCCCCceeccccccceeccc
+Confidence            4788 789999999999999999999999999999999999999999999999875
+
+
+No 24
+>1ZXH_A Immunoglobulin G binding protein G; IgG-binding, protein G, phage display; NMR {Streptococcus sp.}
+Probab=99.00  E-value=3.9e-13  Score=79.37  Aligned_cols=52  Identities=38%  Similarity=0.493  Sum_probs=49.0  Template_Neff=2.900
+
+Q GA98_DM.119       3 YK--ILNLKQAKEEAIKELVDAGTAEKYFKLIANAKTVEGVWTLKDEIKTFTVT   54 (55)
+Q Consensus         3 ~K--~~~l~~aK~~Aikel~~Ag~se~yfklin~aktVeGv~al~d~i~~~~~~   54 (55)
+                      |+  +++.+++.++.+....++++++++|++|.|+|+|+|||+|+|++++|+++
+T Consensus         2 ~~~~~~k~qt~~~e~~~k~~~a~~a~~~F~qy~ndntVeGv~tl~da~~~fl~~   55 (56)
+T 1ZXH_A            2 YYLVVNKGQNAFYETLTKAVDAETARNAFIQSLKDDGVQGVWTYDDATKTFTVQ   55 (56)
+T ss_dssp             EEEEEEECSSCEEEEEEECSSHHHCCCCCHHHHHHHHTTSEECCCTTTCEECEE
+T ss_pred             eeEEEecCCCcchHHhHhHHHHHHHHHHHHHHhhcCCccceeeehhhhhhhccc
+Confidence            56  56789999999999999999999999999999999999999999999987
+
+
+No 25
+>2J5Y_B PEPTOSTREPTOCOCCAL ALBUMIN-BINDING PROTEIN; PROTEIN BINDING, CELL WALL, PEPTIDOGLYCAN-ANCHOR; 1.4A {PEPTOSTREPTOCOCCUS MAGNUS} SCOP: a.8.1.2
+Probab=98.82  E-value=4.5e-12  Score=75.77  Aligned_cols=51  Identities=49%  Similarity=0.546  Sum_probs=46.8  Template_Neff=3.500
+
+Q GA98_DM.119       1 TTYKILNLKQAKEEAIKELVDAGT-AEKYFKLIANAKTVEGVWTLKDEIKTF   51 (55)
+Q Consensus         1 ~T~K~~~l~~aK~~Aikel~~Ag~-se~yfklin~aktVeGv~al~d~i~~~   51 (55)
+                      +|.|...|+++|+.|+++|..+|+ +++|+++|++++||+||+.|++++.+.
+T Consensus         8 ~tik~~~l~eaKe~A~aElk~~G~ts~~y~~~In~AkTVegV~~Lk~~il~~   59 (61)
+T 2J5Y_B            8 MTIDQWLLKNAKEDAIAELKKAGITSDFYFNAINKAKTVEEVNALKNEILKA   59 (61)
+T ss_dssp             CCHHHHHHHHHHHHHHHHHHHTTCCCHHHHHHHHHCCSHHHHHHHHHHHHHH
+T ss_pred             cchhHHHHHHHHHHHHHHHHHhCCCCHHHHHhhhhccCHHHHHHHHHHHHHh
+Confidence            367778899999999999999998 899999999999999999999998754
+
+
+No 26
+>1GJT_A IMMUNOGLOBULIN G BINDING PROTEIN G; IMMUNOGLOBULIN-BINDING PROTEIN, BACTERIAL SURFACE PROTEIN; NMR {STREPTOCOCCUS SP. 'GROUP G'} SCOP: a.8.1.2
+Probab=98.47  E-value=2.7e-10  Score=69.18  Aligned_cols=50  Identities=44%  Similarity=0.443  Sum_probs=45.3  Template_Neff=2.700
+
+Q GA98_DM.119       2 TYKILNLKQAKEEAIKELVDAGTAEKYFKLIANAKTVEGVWTLKDEIKTF   51 (55)
+Q Consensus         2 T~K~~~l~~aK~~Aikel~~Ag~se~yfklin~aktVeGv~al~d~i~~~   51 (55)
+                      |.+...+..+|+.+.++|..+|++++|.++|++++||+|+..|+++|...
+T Consensus        14 ~~~a~~la~aKe~A~kelk~YGvsD~y~nlid~AkTV~gV~~L~a~il~s   63 (65)
+T 1GJT_A           14 AVDANSLAEAKVLANRELDKYGVSDYYKNLINNAKTVEGVKALIDEILAA   63 (65)
+T ss_dssp             CCHHHHHHHHHHHHHHHHHHHTCCHHHHHHHHTCSSHHHHHHHHHHHHHH
+T ss_pred             hcchhhHHHHHHHHHHHHHHhcchHHHHHHHHhccchHhHHHHHHHHHHh
+Confidence            34556788999999999999999999999999999999999999998764
+
+
+No 27
+>2FS1_A PSD-1; solution structure, PSD-1, PROTEIN BINDING; NMR {Finegoldia magna ATCC 29328, Streptococcus dysgalactiae, Streptococcus equi, Streptococcus canis, Streptococcus sp.}
+Probab=98.34  E-value=9.9e-10  Score=64.30  Aligned_cols=51  Identities=53%  Similarity=0.580  Sum_probs=45.5  Template_Neff=4.600
+
+Q GA98_DM.119       3 YKILNLKQAKEEAIKELVDAGTAEKYFKLIANAKTVEGVWTLKDEIKTFTV   53 (55)
+Q Consensus         3 ~K~~~l~~aK~~Aikel~~Ag~se~yfklin~aktVeGv~al~d~i~~~~~   53 (55)
+                      +|...|.++|+.|+++|..+|++++|+++++++++|+|+|.++++++...-
+T Consensus         4 ~~~~~L~~ake~A~~elk~~g~s~~~~~~i~kakTVeGv~~l~~~~l~s~~   54 (56)
+T 2FS1_A            4 VDANSLAQAKEAAIKELKQYGIGDYYIKLINNAKTVEGVESLKNEILKALP   54 (56)
+T ss_dssp             SHHHHHHHHHHHHHHHHHHHCCCHHHHHHHHTCSSSHHHHHHHHHHHHTCS
+T ss_pred             HHHHHHHHHHHHHHHHHHHccccHHHHHHHHHccchhHHHHHHHHHHHHHh
+Confidence            345678999999999999999999999999999999999999998876543
+
+
+No 28
+>6FY1_G CAP228-16H Heavy Chain, CAP228 Autologous; Fab, HIV-1 Envelope V1V2, IMMUNE; 3.132A {Homo sapiens}
+Probab=98.00  E-value=1.7e-08  Score=66.13  Aligned_cols=39  Identities=56%  Similarity=0.773  Sum_probs=28.8  Template_Neff=4.800
+
+Q GA98_DM.119      17 KELVDAGTAEKYFKLIANAKTVEGVWTLKDEIKTFTVTE   55 (55)
+Q Consensus        17 kel~~Ag~se~yfklin~aktVeGv~al~d~i~~~~~~~   55 (55)
+                      +++-..+++|.++.+|.++|||||||+|+|++++|+++|
+T Consensus        72 ~qaCpk~~~d~i~~~~~~~~~v~~~~~~~~~~~~~~~~~  110 (117)
+T 6FY1_G           72 TEAVDAATAAKVFKQYANDNGIDGEWTYDDATKTFTVTE  110 (117)
+T ss_dssp             ECCSSSTHHHHHHHHHHHHHSCCCEEEC------CEEEE
+T ss_pred             HHhccHHHHHHHHHHhccCCCCcceeehhhhhhhccccc
+Confidence            445566789999999999999999999999999999875
+
+
+No 29
+>6HKA_A Immunoglobulin G-binding protein G,Serine-protein kinase; Ataxia telangiectasia mutated (ATM), FATC; NMR {Streptococcus sp. group G}
+Probab=97.68  E-value=1.7e-07  Score=58.60  Aligned_cols=49  Identities=53%  Similarity=0.660  Sum_probs=45.4  Template_Neff=6.400
+
+Q GA98_DM.119       2 TYK-ILNLKQAKEEAIKELVDAGTAEKYFKLIANAKTVEGVWTLKDEIKT   50 (55)
+Q Consensus         2 T~K-~~~l~~aK~~Aikel~~Ag~se~yfklin~aktVeGv~al~d~i~~   50 (55)
+                      +|+ +++.+++|++++.+.+|+|++++||+++.++++|+|++.+.++.+.
+T Consensus         2 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~v~Ge~~~~~a~~~   51 (100)
+T 6HKA_A            2 QYKLALNGKTLKGETTTEAVDAATAEKVFKQYANDNGVDGEWTYDDATKT   51 (100)
+T ss_pred             cchhhccCCCCCchHhhHHHHHHHHHHHHHHhCCCCCcchhHHHHHHHHH
+Confidence            688 7899999999999999999999999999999999999999887554
+
+
+No 30
+>3U2S_C PG9 heavy chain, PG9 light; greek key, immunoglobulin, immune recognition; HET: SO4, TYS, MAN, PCA, BMA, NAG, BU3; 1.797A {Homo sapiens}
+Probab=97.52  E-value=4.7e-07  Score=59.63  Aligned_cols=39  Identities=56%  Similarity=0.773  Sum_probs=35.3  Template_Neff=5.200
+
+Q GA98_DM.119      17 KELVDAGTAEKYFKLIANAKTVEGVWTLKDEIKTFTVTE   55 (55)
+Q Consensus        17 kel~~Ag~se~yfklin~aktVeGv~al~d~i~~~~~~~   55 (55)
+                      +++-..|++|.++.+|..+|||+|+|+|+|++++|+++|
+T Consensus        79 ~qaCpk~~~d~i~~~~~a~~~~~~~~~l~~~~~~~~~~~  117 (124)
+T 3U2S_C           79 TEAVDAATAAKVFKQYANDNGIDGEWTYDDATKTFTVTE  117 (124)
+T ss_dssp             ECCSCHHHHHHHHHHHHHHHTCCSEEEEETTTTEEEEEE
+T ss_pred             HHhccHHHhhHhhhhhccCCCCCceeeeccCCCcccccc
+Confidence            455677899999999999999999999999999999875
+
+
+No 31
+>2CWB_A chimera of Immunoglobulin G binding; HELICAL BUNDLE, PROTEIN BINDING; NMR {Streptococcus sp. group G}
+Probab=96.12  E-value=0.00025  Score=45.21  Aligned_cols=51  Identities=55%  Similarity=0.696  Sum_probs=0.0  Template_Neff=6.300
+
+Q GA98_DM.119       2 TYK-ILNLKQAKEEAIKELVDAGTAEKYFKLIANAKTVEGVWTLKDEIKTFT   52 (55)
+Q Consensus         2 T~K-~~~l~~aK~~Aikel~~Ag~se~yfklin~aktVeGv~al~d~i~~~~   52 (55)
+                      -|| ++++.+.+++.+.+.+++.++++||+++.+.++++|.|....+..+++
+T Consensus         8 ~~~~~~~~~~~~~~~~~~~~~~~vA~~~~~~~~~~~~~~~~w~~~~a~~~~~   59 (108)
+T 2CWB_A            8 QYKLALNGKTLKGETTTEAVDAATAEKVFKQYANDNGVDGEWTYDDATKTFT   59 (108)
+T ss_dssp             ----------------------------------------------------
+T ss_pred             cceeeecCCCCCCchHHHHHHHHHHHHHHHHHhhhCCCCCCCCccccccccc
+Confidence            388 799999999999999999999999999999999999999987766544
+
+
+No 32
+>2KBT_A Proto-oncogene vav; sortase, protein ligation, GB1, intein; NMR {Mus musculus, synthetic, Streptococcus sp. 'group G'}
+Probab=66.77  E-value=4.3  Score=25.35  Aligned_cols=33  Identities=61%  Similarity=0.822  Sum_probs=0.0  Template_Neff=9.100
+
+Q GA98_DM.119      23 GTAEKYFKLIANAKTVEGVWTLKDEIKTFTVTE   55 (55)
+Q Consensus        23 g~se~yfklin~aktVeGv~al~d~i~~~~~~~   55 (55)
+                      +...+.+.++....+++++|.+.+.+++|++++
+T Consensus       100 ~~~~~~~~~~~~~~~~~~el~f~~~~~~~~~~~  132 (142)
+T 2KBT_A          100 ATAEKVFKQYANDNGVDGEWTYDDATKTFTVTE  132 (142)
+T ss_dssp             ---------------------------------
+T ss_pred             cCCceEEEcccccCCCCCeeeEcccceeehHHH
+Confidence            345677889999999999999999999999764
+
+
+No 33
+>6RSS_A NEDD4-like E3 ubiquitin-protein ligase WWP2; Three-stranded antiparallel beta-sheet, PPxY motif; NMR {Homo sapiens}
+Probab=62.28  E-value=6  Score=24.52  Aligned_cols=41  Identities=59%  Similarity=0.744  Sum_probs=29.8  Template_Neff=7.900
+
+Q GA98_DM.119       3 YK-ILNLKQAKEEAIKELVDAGTAEKYFKLIANAKTVEGVWT   43 (55)
+Q Consensus         3 ~K-~~~l~~aK~~Aikel~~Ag~se~yfklin~aktVeGv~a   43 (55)
+                      |+ ++|.+.+++++..+..++++++.-...|-|.++...-|.
+T Consensus         6 ~~~~~~~~~~~~~~~~~~~~~~~~~~g~~yY~nh~t~~ttW~   47 (109)
+T 6RSS_A            6 YKLILNGKTLKGETTTEAVDAATAEKVFKQYANDNGVDGEWT   47 (109)
+T ss_dssp             EEEEEECSSCEEEEEEEESCHHHHHHHHHHHHHTTTCCCEEE
+T ss_pred             eeeeeCCCCCCCCCcHHHHHHHhcCCceeEEeeCCCCccEEE
+Confidence            67 789999999999999999987665555555555444443
+
+
+No 34
+>2K88_A Vacuolar proton pump subunit G; G subunit, V1Vo ATPase, Vma10p; NMR {Saccharomyces cerevisiae}
+Probab=29.97  E-value=45  Score=20.00  Aligned_cols=22  Identities=41%  Similarity=0.431  Sum_probs=16.4  Template_Neff=5.100
+
+Q GA98_DM.119       3 YKILNLKQAKEEAIKELVDAGT   24 (55)
+Q Consensus         3 ~K~~~l~~aK~~Aikel~~Ag~   24 (55)
+                      +|...|+.||.+|.+++..+-.
+T Consensus        28 ~r~~rlK~Ak~eA~~EIe~yr~   49 (60)
+T 2K88_A           28 YRQDKLKQAKTDAAKEIDSYKI   49 (60)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHH
+Confidence            3456788899988888877653
+
+
+No 35
+>6U42_5A Tubulin beta, Tubulin alpha, PACRG; motile cilia, microtubule doublet, repetitive; HET: GDP, GTP, MG; 3.4A {Chlamydomonas reinhardtii}
+Probab=23.09  E-value=72  Score=26.07  Aligned_cols=27  Identities=33%  Similarity=0.378  Sum_probs=21.4  Template_Neff=5.800
+
+Q GA98_DM.119       7 NLKQAKEEAIKELVDAGTAEKYFKLIA   33 (55)
+Q Consensus         7 ~l~~aK~~Aikel~~Ag~se~yfklin   33 (55)
+                      .+...+..-+.+|..+|+.++|...+.
+T Consensus       469 ~Le~ik~~Kl~eLr~~gvPeKY~~eve  495 (501)
+T 6U42_5A         469 LLLQIKDRKLGELESAGVPGKYRAELE  495 (501)
+T ss_pred             HHHHHHHHHHHHHHHcCCCHHHHHHHH
+Confidence            456677777888999999999986554
+
+
+No 36
+>6U42_5C Tubulin beta, Tubulin alpha, PACRG; motile cilia, microtubule doublet, repetitive; HET: GDP, MG, GTP; 3.4A {Chlamydomonas reinhardtii}
+Probab=23.09  E-value=72  Score=26.07  Aligned_cols=27  Identities=33%  Similarity=0.378  Sum_probs=21.4  Template_Neff=5.800
+
+Q GA98_DM.119       7 NLKQAKEEAIKELVDAGTAEKYFKLIA   33 (55)
+Q Consensus         7 ~l~~aK~~Aikel~~Ag~se~yfklin   33 (55)
+                      .+...+..-+.+|..+|+.++|...+.
+T Consensus       469 ~Le~ik~~Kl~eLr~~gvPeKY~~eve  495 (501)
+T 6U42_5C         469 LLLQIKDRKLGELESAGVPGKYRAELE  495 (501)
+T ss_pred             HHHHHHHHHHHHHHHcCCCHHHHHHHH
+Confidence            456677777888999999999986554
+
+
